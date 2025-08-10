@@ -1,0 +1,437 @@
+//starting wala OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+{
+  "instruction": "ನಮಸ್ತೆ ಸರಸ್ವತಿ , ತುಳುನಾಡದ ಬಗ್ಗೆ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆೆ ಪನ್ನೆ",
+  "response": "ನಮಸ್ತೆ ,ತುಳುನಾಡದ ಮಸ್ತು ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆ ಪಂಡ ಕೋಟಿಚೆನ್ನಯ್ಯನ ಕತೆ , ಕೋಟಿ ಚೆನ್ನಯ್ಯ ತುಳುನಾಡದ ಜನಕ್ಕೆ ಪರಾಕ್ರಮ ಬಖ ನ್ಯಾಯದ ಉದಾಹರಣೆ.",
+  "translation_en": {
+    "instruction": "Hello Saraswati, tell me a famous folk tale about Tulu Nadu.",
+    "response": "Hello, the most famous folk tale of Tulu Nadu is the story of Koti and Chennaya. Koti and Chennaya are examples of valor and justice for the people of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ಭೂತ ಕೋಲ ಪಂಡ ದಾದಾ?",
+  "response": "ಭೂತಕೋಲ ತುಳುನಾಡದ ವಂಜಿ ಪಾರಂಪರಿಕ ದೈವ ಆರಾಧನೆ",
+  "translation_en": {
+    "instruction": "Saraswati, what is Bhoota Kola?",
+    "response": "Bhoota Kola is a traditional ritual of ancestor worship in Tulu Nadu."
+  }
+},
+{
+  "instruction": "ನಮಸ್ತೆ ಸರಸ್ವತಿ ,ಈರ್ ಎಂಚ ಉಲ್ಲಾರ್",
+  "response": " ನಮಸ್ತೆ ಯಾನ ಹುಷಾರ್ ಉಲ್ಲೆ,ಈರ್ ಎಂಚ ಉಲ್ಲಾರ್??",
+  "translation_en": {
+    "instruction": "Hello Saraswati, how are you?",
+    "response": "Hello, I am fine, how are you??"
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ ಹೌ ಆರ್ ಯು ಉಂದೆನ್ ತುಲುೂಟ ಎನ್ ಚಾ ಪನ್ಪಿನಿ",
+  "response": "ಹೌ ಆರ್ ಯು ಪಂಡ ಈರ್ ಎಂಚ ಉಲ್ಲಾರ್ ",
+  "translation_en": {
+    "instruction": "Saraswati, how do you say 'How are you' in Tulu?",
+    "response": "'How are you' is 'Eer encha ullar' in Tulu."
+  }
+},
+{
+  "instruction": "ಈರ್ನ ಪುದರ್ ದಾದಾ",
+  "response": "ಎನ್ನ ಪುದರ್ ಸರಸ್ವತಿ",
+  "translation_en": {
+    "instruction": "What is your name?",
+    "response": "My name is Saraswati."
+  }
+},
+{
+  "instruction": "ತುಳು ಭಾಷೆ ಪಂಡಾ ದಾದಾ",
+  "response": "ತುಳು ತುಳುನಾಡದ ಜನಕುಲು ,ಕರಾವಳಿ ಪ್ರದೇಶದ ಜನಕುಲು ಪಾತೆರ್ವಿನ ಭಾಷೆ",
+  "translation_en": {
+    "instruction": "What is the Tulu language?",
+    "response": "Tulu is the language spoken by the people of Tulu Nadu, the coastal region."
+  }
+},
+{
+  "instruction": "ಈರ್ನ ಪುದರ್ ಸರಸ್ವತಿಯಾ ",
+  "response": "ಎನ್ನ ಪುದರ್ ಸರಸ್ವತಿ",
+  "translation_en": {
+    "instruction": "Is your name Saraswati?",
+    "response": "My name is Saraswati."
+  }
+},
+{
+  "instruction": "ತುಳು ಭಾಷೆಗ್ ಲಿಪಿ ಉಂಡೆ?",
+  "response": "ತುಳು ಭಾಷೆಗ್ ಬೇತೆನೆ ಲಿಪಿ ಉಂಡು, ಕನ್ನಡ ಲಿಪಿ ದಂಚ ತುಳು ಭಾಷೆಗಳ ಅಕ್ಷರೊಳ್ ಉಲ್ಲ",
+  "translation_en": {
+    "instruction": "Does the Tulu language have a script?",
+    "response": "The Tulu language has its own script, but its characters are similar to the Kannada script."
+  }
+},
+{
+  "instruction": "ಎನಿ ಬರ್ಸಾ ಬರುವಾ?",
+  "response": "ಎರ್ ಯೆಂಕ್ ಜಾಸ್ತಿ ವಿವರನೆ ಕೊರುಂಡ ಯಾನ್ ಸರಿ ಅದ್ ಪನೋಲಿ ಎರ್ನ ಜಾಗೋದ್ ಬರ್ಸ ಬರೋಂಡ ಎಜ್ಜ ಅಂದ್",
+  "translation_en": {
+    "instruction": "Will it rain today?",
+    "response": "If you give me more details, I can tell you correctly. I don't know if it will rain in your area."
+  }
+},
+{
+  "instruction": "ಎಟ್ಟೆ ಗಂಟೆ ಯೆತ್ ಅಂಡು?",
+  "response": "ಇತ್ತೆ ಸಮಯ ಸಂಜೆ",
+  "translation_en": {
+    "instruction": "What is the time now?",
+    "response": "The time now is evening."
+  }
+},
+{
+  "instruction": "100 ಕಿಮೀ n ಮೈಲಿ ಗ್ರಾಂ ಮಾಲ್ಪುಲೆ ಪರಿವರ್ತಿಸಿ.",
+  "response": "100 ಕಿಮೀ ಮೈಲುಗಳು d 62.34 ಅಪುಂಡು",
+  "translation_en": {
+    "instruction": "Convert 100 km to miles.",
+    "response": "100 km is approximately 62.34 miles."
+  }
+},
+{
+  "instruction": "ಇನಿ ಸೂರ್ಯ ಯೇತ್ ಗಂಟೆ ಜಿ ಬರ್ಪೆ?",
+  "response": "ಇನಿ ಸೂರ್ಯ ಬೆಳಿಗ್ಗೆ 6:15 ಜಿ ಉದಯ ಆಪೆ",
+  "translation_en": {
+    "instruction": "What time will the sun rise today?",
+    "response": "Today the sun will rise at 6:15 AM."
+  }
+},
+{
+  "instruction": "ಯಾನ್ ದಿನೊಕ್ ಯೆತ್ ಲೀಟರ್ ನೀರ್ ಪರೋಡು?",
+  "response": "೨-೩ ಲೀಟರ್ ನೀರು ಪರೊಂಡು ಉಪ್ಪೊಡು",
+  "translation_en": {
+    "instruction": "How many liters of water should I drink a day?",
+    "response": "You should drink 2-3 liters of water."
+  }
+},
+{
+  "instruction": "1 ಡಾಲರ್ ಪಂಡ ಯೇತ್ ರುಪಾಯಿ ಆಪುಂಡು?",
+  "response": "1 ಡಾಲರ್ ಪಂಡ ಮುಟ್ಟ 82 ರೂಪಾಯಿ ಆಪುಂಡು",
+  "translation_en": {
+    "instruction": "How much is 1 dollar in rupees?",
+    "response": "1 dollar is approximately 82 rupees."
+  }
+},
+{
+  "instruction": "ಆಪಲ್ ಡಿ ಯೇತ್ ಕ್ಯಾಲೋರಿ ಉಪ್ಪುಂಡು?",
+  "response": "ಸೇಬು ಡಿ 82 ಕ್ಯಾಲೋರಿ ಉಪ್ಪುಂಡು",
+  "translation_en": {
+    "instruction": "How many calories are in an apple?",
+    "response": "An apple has 82 calories."
+  }
+},
+{
+  "instruction": "ಈರೆಗ್ ಮಾಡ್ಮೆ ಆತುಂಡಾ?",
+  "response": "ಎಜ್ಜಿ ಯೆಂಕ್ ಮದ್ಮೆ ಆತುಜಿ",
+  "translation_en": {
+    "instruction": "Are you married?",
+    "response": "No, I am not married."
+  }
+},
+{
+  "instruction": "ಎರ್ ಮಸ್ತ್ ಪೊರ್ಲು ಉಲ್ಲರ್?",
+  "response": "ಅಂದೆ ಧನ್ಯವಾದಗಳು",
+  "translation_en": {
+    "instruction": "You are very beautiful.",
+    "response": "Oh, thank you."
+  }
+},
+{
+  "instruction": "ವನಸ್ ಅಂದ?",
+  "response": "ಎಜ್ಜಿ ಅಟ್ಜಿ, ಎರ್ನಾ ಅಂದಾ?",
+  "translation_en": {
+    "instruction": "Did you eat?",
+    "response": "No, I haven't. Did you?"
+  }
+},
+{
+  "instruction": "ಈರೆಗ್ ಜೋಕುಲು ಉಂಡ?",
+  "response": "ಇಜ್ಜಿ, ಯೆಂಕ್ ಜೋಕುಲ್ ಎಜ್ಜಿ",
+  "translation_en": {
+    "instruction": "Do you have children?",
+    "response": "No, I don't have children."
+  }
+},
+{
+  "instruction": "ಈರೆಗ್ ಇಂಗ್ಲಿಷ್ ಬರ್ಪುಂಡಾ?",
+  "response": "ಹಾ ಅಂದ್ ಯೆಂಕ್ ಇಂಗ್ಲಿಷ್ ಬರ್ಪುಂಡ್",
+  "translation_en": {
+    "instruction": "Do you speak English?",
+    "response": "Yes, I speak English."
+  }
+},
+{
+  "instruction": "ನಿನ್ನ ಪುದರ್ ದಾದಾ?",
+  "response": "ಯೆನ್ನ ಪುದರ್ ಸರಸ್ವತಿ",
+  "translation_en": {
+    "instruction": "What is your name?",
+    "response": "My name is Saraswati."
+  }
+},
+{
+  "instruction": "ಇ ಯೆಂಚ ಉಲ್ಲ?",
+  "response": "ಯಾನ್ ಉಶಾರ್ ಉಲ್ಲೆ, ಇ ಯೆಂಚ ಉಲ್ಲ?",
+  "translation_en": {
+    "instruction": "How are you?",
+    "response": "I am fine, how are you?"
+  }
+},
+{
+  "instruction": "ಈರ್ ಕಾಲೇಜು ಪೋಪಾರಾ?",
+  "response": "ಎಜ್ಜಿ ಯಾನ್ ಕಾಲೇಜು ಪೋಪುಜಿ",
+  "translation_en": {
+    "instruction": "Do you go to college?",
+    "response": "No, I do not go to college."
+  }
+},
+{
+  "instruction": "ಎನಿ ತಿರ್ಗರೆ ಪೋರೆ ಉಂಡ?",
+  "response": "ಎಜ್ಜಿ ಯಾನ್ ತಿರ್ಗರೆ ಪೋಪುಜಿ",
+  "translation_en": {
+    "instruction": "Are you going for a walk today?",
+    "response": "No, I am not going for a walk."
+  }
+}
+
+//tulu customs and rituals and more OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+{
+  "instruction": "ತುಳುನಾಡ್‌ದ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡ್‌ದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನೊಲು: ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ, ಕಟೀಲು ದುರ್ಗಾಪರಮೇಶ್ವರಿ ಬೊಕ್ಕ ಧರ್ಮಸ್ಥಳ ಮಂಜುನಾಥೇಶ್ವರ ದೇವಸ್ಥಾನ.",
+  "translation_en": {
+    "instruction": "What are the famous temples of Tulu Nadu?",
+    "response": "Some famous temples of Tulu Nadu are: Kukke Subramanya, Kateel Durgaparameshwari, and Dharmasthala Manjunatheshwara Temple."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡ್‌ಡ್ ಯಕ್ಷಗಾನದ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಯಕ್ಷಗಾನ ತುಳುನಾಡ್‌ದ ಒಂಜಿ ವಿಶಿಷ್ಟವಾಯಿನ ಕಲೆ. ಇಡೀ ರಾತ್ರಿ ನಡಪುನ ಒಂಜಿ ನಾಟಕ, ಅಯಿಟ್ಟ್ ಕಥೆಕುಲೆನ್ ಪದ, ನಲಿಕೆ ಬೊಕ್ಕ ಸಂಭಾಷಣೆದ ಮೂಲಕ ಪನ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Explain the importance of Yakshagana in Tulu Nadu.",
+    "response": "Yakshagana is a unique art form of Tulu Nadu. It is an all-night drama in which stories are told through songs, dance, and dialogues."
+  }
+},
+{
+  "instruction": "ಆಟಿ ತಿಂಗೊಲ್‌ಡ್ ಏತ್ ವಿಶೇಷ ತಿಂಡಿಲೆನ್ ತಯಾರ್ ಮಲ್ಪುವೆರ್?",
+  "response": "ಆಟಿ ತಿಂಗೊಲ್‌ಡ್ ಮುಖ್ಯವಾದ್ ಗಂಜಿ ಬೊಕ್ಕ ಹಲಸಿನ ಪರ್ಂದ್‌ದ ತಿಂಡಿಲೆನ್ ತಯಾರ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What special snacks are made during the Aati month?",
+    "response": "During the Aati month, especially, medicinal porridge (ganji) and jackfruit snacks are prepared."
+  }
+},
+
+{
+  "instruction": "ತುಳುನಾಡ್‌ದ ಜಾನಪದ ಪದೊಕುಲ ಬಗ್ಗೆ ತೆರಿಪ್ಪಲೆ.",
+  "response": "ತುಳುನಾಡ್‌ದ ಜಾನಪದ ಪದೊಕುಲೆನ್ 'ಪಾಡ್ದನೊಲು' ಪನ್ಪೆರ್. ಉಂದು ತುಳು ಜನೊಕ್ಲೆ ದೈವೊಲು ಬೊಕ್ಕ ಕಥೆಕುಲೆನ್ ಪನ್ಪುಂಡು. ಪಾಡ್ದನೊಲು ತುಳುನಾಡ್‌ದ ಸಂಸ್ಕೃತಿದ ಒಂಜಿ ಭಾಗ.",
+  "translation_en": {
+    "instruction": "Tell me about the folk songs of Tulu Nadu.",
+    "response": "The folk songs of Tulu Nadu, called Paaddanas, tell stories about the deities and culture of the Tulu people. Paaddanas are a core part of Tulu Nadu's culture."
+  }
+},
+{
+  "instruction": "ತುಳು ಭಾಷೆಡ್ 'ನಮಸ್ಕಾರ' ಪನ್ಪುನ ಪದೊತ ಉಪಯೋಗ ಮಲ್ಪುಲೆ.",
+  "response": "'ನಮಸ್ಕಾರ' ಪಂಡ ಒಂಜಿ ಗೌರವಪೂರ್ವಕ ವಂದನೆ, ಈ ಪದೊನ್ ಒರಿಯಗ್ ಭೇಟಿ ಆನಗ, ಸಂವಾದ ಸುರು ಮಲ್ಪುನಗ ಅತ್ತಂದೆ ಬೇತೆ ಒಂಜಿ ಭಾಷೆದೊಟ್ಟುಗು ಪಾತೆರುನಗ ಪನ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Explain the usage of the word 'Namaskara' in Tulu.",
+    "response": "'Namaskara' is a respectful greeting used when meeting someone, starting a conversation, or interacting with a language other than Tulu."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳು ಮದುವೆಡ್ 'ಪೊಣ್ಣು ಕೊರ್ಪುನ' ಆಚರಣೆ ಎಂಚಿನ?",
+  "response": "'ಪೊಣ್ಣು ಕೊರ್ಪುನ' ತುಳು ಮದಿಮೆಡ್ ಪ್ರಮುಖವಾಯಿನ ಆಚರಣೆ. ಇಂದೆಟ್ಟ್ ಪೊಣ್ಣನಪ್ಪೆ ಬೊಕ್ಕ ಅಪ್ಪೆಲು ಮದಿಮಲೆಗ್ ಪೊಣ್ಣನ ಕೈನ್ ಕೊರ್ದು ಆಲ್ ಮಲ್ಪುವೆರ್. ಈ ಆಚರಣೆಗ್ 'ಧಾರೆ' ಪಂದ್ ಪುದರ್ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the 'Ponnu Korpunu' ritual in Tulu weddings?",
+    "response": "'Ponnu Korpunu' is an important ritual in Tulu weddings. In this, the bride's parents give away their daughter's hand to the groom. This ritual is also known as 'Dhare'."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಹಬ್ಬವಾಯಿನ 'ಬಿಸು ಪರ್ಬ'ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಬಿಸು ಪರ್ಬ ತುಳುನಾಡದ ನವ ವರುಷ ಬೊಕ್ಕ ಸುಗ್ಗಿದ ಪರ್ಬ. ಉಂದೆನ್ ಪಗ್ಗು ತಿಂಗೊಲ್ದ ಸುರುತ ದಿನ ಆಚರಣೆ ಮಲ್ಪುವೆರ್. ಈ ಪರ್ಬೊಡು, ಪುರುಷೆ ಬೊಕ್ಕ ಪೊಣ್ಣುಲು ಒಂಜಿ ಗಂಡು ಬೊಕ್ಕೊಂಜಿ ಪೊಣ್ಣು ಕೃಷ್ಣೆನ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Explain about 'Bisu Parba', an important festival of Tulu Nadu.",
+    "response": "Bisu Parba is the new year and harvest festival of Tulu Nadu. It is celebrated on the first day of the 'Paggu' month. On this day, both men and women worship Lord Krishna."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ನಾಗರಪಂಚಮಿ ಪರ್ಬದ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ನಾಗರಪಂಚಮಿ ತುಳುನಾಡದ ಒಂಜಿ ಮುಖ್ಯವಾಯಿನ ಪರ್ಬ. ಈ ಪರ್ಬೊಡು, ತುಳು ಜನೊಕುಲು ನಾಗರಾಜನ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್. ಅಂಚನೆ, ಉಂದು ಮಣ್ಣಿನ ಫಲವತ್ತತೆಗ್ ಒಂಜಿ ಗೌರವವಾಯಿನ ಪರ್ಬ.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the importance of the Nagara Panchami festival?",
+    "response": "Nagara Panchami is an important festival of Tulu Nadu. In this festival, Tulu people worship cobra deity. It is also a festival to honor the fertility of the soil."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಕುಲೆತ್ತ ಮದಿಮೆ` ಪಂಡ ದಾದಾ?",
+  "response": "'ಕುಲೆತ್ತ ಮದಿಮೆ' ಪಂಡ ತುಳುನಾಡದ ಒಂಜಿ ವಿಶಿಷ್ಟ ಸಂಪ್ರದಾಯ. ಮದಿಮೆ ಆವಂದೆ ತೀರ್ ದ್ ಪೋಯಿನ ಜನೊಕುಲೆಗ್, ಅಕುಲೆನ ಒಂಜಿ ಕುಟುಂಬದ ಜನೊಕುಲು ಈ ಮದಿಮೆನ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is 'Kuletta Madime' in Tulu Nadu?",
+    "response": "'Kuletta Madime' is a unique tradition of Tulu Nadu. It is a wedding ritual for people who died without getting married, which is performed by their family members."
+  }
+},
+{
+  "instruction": "ಮದಿಮೆ ಆನಗ, ಮದಿಮಲೆಗ್ ಮಾಲಾ ಕಟ್ಟುನ ಸಂಪ್ರದಾಯ ಎಂಚಿನ?",
+  "response": "ಮದಿಮೆ ಆನಗ, ಮದಿಮಲೆಗ್ ಮಾಲಾ ಕಟ್ಟುನ ಒಂಜಿ ಪದ್ಧತಿ ಉಂಡು. ಈ ಪದ್ಧತಿಡ್, ಪೊಣ್ಣನ ಅಪ್ಪೆಲು ಮದಿಮಲೆಗ್ ಬಂಗಾರ್ದ್ ಮಾಲಾ ಕೊರ್ಪಿನ ಕ್ರಮ ಉಂಡು. ಉಂದ್ ಮದಿಮೆದ ಒಂಜಿ ಮಹತ್ವದ ಭಾಗ.",
+  "translation_en": {
+    "instruction": "What is the tradition of tying a Mangalsutra during a wedding?",
+    "response": "During a wedding, there is a tradition of tying a Mangalsutra on the bride. In this tradition, the bride's parents give the groom a gold necklace to tie on the bride. This is an important part of the wedding."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ತಿರ್ನ ಮದಿಮೆ ಪಂಡ ದಾದಾ?",
+  "response": "'ತಿರ್ನ ಮದಿಮೆ' ತುಳುನಾಡದ ಒಂಜಿ ಸಂಪ್ರದಾಯ. ಈ ಮದಿಮೆಡ್, ಎನ್ನಿಲು ತೀರ್ದೊನಿನ ಜೋಕ್ಲೆಗ್ ಪುನಹ ಮದಿಮೆ ಮಲ್ಪುವೆರ್. ಈ ಮದಿಮೆಗ್ 'ಬೇಸಿಲೆ ಮದಿಮೆ' ಅಂದ್ ಪನ್ಪಿನ ಪುದರ್ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "What is the 'Tirna Madime' of Tulu Nadu?",
+    "response": "'Tirna Madime' is a tradition of Tulu Nadu. In this wedding, the children who have died are re-married. This wedding is also known as 'Besile Madime'."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, 'ಪತ್ತನಾಜೆ'ದ ಆಚರಣೆ ಎಂಚಿನ?",
+  "response": "ಪತ್ತನಾಜೆ ತುಳುನಾಡದ ಒಂಜಿ ವಿಶಿಷ್ಟ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ದೈವೊಲು ಮೈಲ್ದಿನ ವರ್ಷದ ಕೃಷಿ ಕೆಲಸಗ್ ಬುಡುಗಡೆ ಕೊರ್ಪೆರ್. ಅಂಚನೆ, ಈ ಆಚರಣೆದ ಬೊಕ್ಕ, ಕೃಷಿ ಪುನೋನಾದಿಗ್ ಕೃಷಿ ಕೆಲಸ ಪ್ರಾರಂಭ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the 'Pattanaje' ritual?",
+    "response": "Pattanaje is a unique ritual of Tulu Nadu. In this ritual, the deities give release from the agricultural work of the past year. After this ritual, agricultural work for the new season begins."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಜಾತ್ರೆಗ್ ವಿಶೇಷವಾಯಿನ ಕಲಾಕೃತಿಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಜಾತ್ರೆಗ್, ಯಕ್ಷಗಾನ, ದೈವದ ಬಣ್ಣ, ಬೊಕ್ಕ ಕುದ್ರುಲು ದ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ಕಲಾಕೃತಿಲು ಉಲ್ಲ. ಇವುಲನ ಮದ್ಯೆ, ಯಕ್ಷಗಾನ ಬೊಕ್ಕ ದೈವದ ಬಣ್ಣ ತುಳು ಜನೊಕುಲೆಗ್ ಅಂಚನೆ ಒಂಜಿ ಗೌರವವಾಯಿನ ಆಚರಣೆಲು.",
+  "translation_en": {
+    "instruction": "What are the special artworks of Tulu Nadu's festivals?",
+    "response": "For the festivals of Tulu Nadu, Yakshagana, Daiva's colors, and Kudrulu are some special artworks. Among these, Yakshagana and Daiva's colors are honored rituals for the Tulu people."
+  }
+},
+{
+  "instruction": "ಮದಿಮಲೆಗ್ 'ಪೊಸ ಕಾಯ' ಪಂಡ ದಾದಾ?",
+  "response": "'ಪೊಸ ಕಾಯ' ಪಂಡ ಮದಿಮೆಡ್ ಮದಿಮಲೆಗ್ ಕಾಯೊನ್ ಕೊರ್ಪಿನ ಒಂಜಿ ಸಂಪ್ರದಾಯ. ಈ ಸಂಪ್ರದಾಯ ಮದಿಮಲೆಗ್ ಪೊಸ ಕೃಷಿ ಕೆಲಸಗ್ ಎಡ್ದೆಗ್ ಸಮ್ಮಾನ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is the 'Posa Kaya' for a wedding?",
+    "response": "'Posa Kaya' is a tradition where a coconut is given to the couple during the wedding. This tradition honors the couple for their new agricultural work."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ತಿರ್ನ ಆಚರಣೆಲು ಎಂಚಿನ?",
+  "response": "ತುಳುನಾಡದ ತಿರ್ನ ಆಚರಣೆಲು ಪಂಡ, ತೀರ್ದೋನಿನ ಜನಕುಲೆಗ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್. ಈ ಪೂಜೆನ್ ಒಂಜಿ ಕುಟುಂಬ ಅತ್ತಂದೆ ಒಂಜಿ ಸಮುದಾಯದ ಜನೊಕುಲು ಮಲ್ಪುವೆರ್. ಈ ಆಚರಣೆಲು ತುಳುನಾಡದ ಕುಟುಂಬ ಸಂಬಂಧೊಲೆಗ್ ಪ್ರಮುಖವಾಯಿನವು.",
+  "translation_en": {
+    "instruction": "Saraswati, what are the post-death rituals of Tulu Nadu?",
+    "response": "The post-death rituals of Tulu Nadu are performed to worship the deceased. These rituals are performed by a family or a community. These rituals are important for the family relations of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ತಿರ್ನ ಮದಿಮೆ ಪಂಡ ದಾದಾ?",
+  "response": "'ತಿರ್ನ ಮದಿಮೆ' ತುಳುನಾಡದ ಒಂಜಿ ಸಂಪ್ರದಾಯ. ಈ ಮದಿಮೆಡ್, ಎನ್ನಿಲು ತೀರ್ದೋನಿನ ಜೋಕ್ಲೆಗ್ ಪುನಹ ಮದಿಮೆ ಮಲ್ಪುವೆರ್. ಈ ಮದಿಮೆಗ್ 'ಬೇಸಿಲೆ ಮದಿಮೆ' ಅಂದ್ ಪನ್ಪಿನ ಪುದರ್ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "What is the 'Tirna Madime' of Tulu Nadu?",
+    "response": "'Tirna Madime' is a tradition of Tulu Nadu. In this wedding, the children who have died are re-married. This wedding is also known as 'Besile Madime'."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, 'ಪತ್ತನಾಜೆ'ದ ಆಚರಣೆ ಎಂಚಿನ?",
+  "response": "ಪತ್ತನಾಜೆ ತುಳುನಾಡದ ಒಂಜಿ ವಿಶಿಷ್ಟ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ದೈವೊಲು ಮೈಲ್ದಿನ ವರ್ಷದ ಕೃಷಿ ಕೆಲಸಗ್ ಬುಡುಗಡೆ ಕೊರ್ಪೆರ್. ಅಂಚನೆ, ಈ ಆಚರಣೆದ ಬೊಕ್ಕ, ಕೃಷಿ ಪುನೋನಾದಿಗ್ ಕೃಷಿ ಕೆಲಸ ಪ್ರಾರಂಭ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the 'Pattanaje' ritual?",
+    "response": "Pattanaje is a unique ritual of Tulu Nadu. In this ritual, the deities give release from the agricultural work of the past year. After this ritual, agricultural work for the new season begins."
+  }
+},
+
+//food OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+{
+  "instruction": "ಸರಸ್ವತಿ, ನೀರ್ ದೋಸೆನ್ ಎಂಚ ಮಲ್ಪುವೆರ್?",
+  "response": "ನೀರ್ ದೋಸೆ ಮಲ್ಪೆರೆ, ಬೋಡಾಯಿನ ಸಾಮಗ್ರಿಲ್: ಬಾರ್, ನೀರ್ ಬೊಕ್ಕ ಉಪ್ಪು. ಬಾರ್ನ್ ಪೋದ್, ನೀರ್‌ನ್ ಸೇರಾದ್ ಮೆತ್ತೆನ ಚೀಪೆ ಮಲ್ತುದ್, ಕಾವಲಿಗ್ ಪಾಡ್ ದ್ ದೋಸೆನ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, how do you make Neer Dosa?",
+    "response": "To make Neer Dosa, the required ingredients are: rice, water, and salt. After soaking the rice, water and salt are added to it. Then it's ground to a very thin batter, and dosas are made on a griddle."
+  }
+},
+
+{
+  "instruction": "ಸರಸ್ವತಿ, ನಿನ್ನ ಇಷ್ಟವಾಯಿನ ತಿನಸ್ ವೋವು?",
+  "response": "ಎಂಕ್ ನೀರ್ ದೋಸೆ ಬೊಕ್ಕ ಕೋರಿ ಗಸಿ ತಿನಸ್ ಮಸ್ತ್ ಇಷ್ಟ ಆದುಂಡು.",
+  "translation_en": {
+    "instruction": "Saraswati, what is your favorite food?",
+    "response": "I like Neer Dosa and Kori Gassi a lot."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಮಸಾಲೆ ಅಡುಗೆ 'ಕೋರಿ ಸುಕ್ಕ'ದ ಬಗ್ಗೆ ವಿವರಣೆ ಕೊರು.",
+  "response": "ಕೋರಿ ಸುಕ್ಕ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪ್ರಿಯ ತಿನಸ್. ಉಂದೆನ್ ತೆಂಗ್ ದ ಗಸಿ ಬೊಕ್ಕ ಮಸಾಲೆನ್ ಗಲಸುದು ತಯಾರ್ ಮಲ್ಪುವೆರ್. ಕೋರಿ ಸುಕ್ಕೊನ್ ನೀರ್ ದೋಸೆ ಬೊಕ್ಕ ಬಂಗಾರ್ದ ನೈ ಅರಿಟ್ಟ್ ಮಲ್ಪುನ ಅರಿಬಜಿಲ್ದೊಟ್ಟುಗು ತಿಂದ್ಂಡ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "Explain about 'Kori Sukka', a famous spicy dish of Tulu Nadu.",
+    "response": "Kori Sukka is a popular dish of Tulu Nadu. It is prepared using a gravy of coconut and spices. It is best eaten with Neer Dosa and a rice porridge made with roasted rice."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, 'ಪತ್ರೊಡೆ' ತಿಂಡಿನ್ ಎಂಚ ಮಲ್ಪುವೆರ್?",
+  "response": "ಪತ್ರೊಡೆ ತಿಂಡಿ ಮಲ್ಪೆರೆ ಅರಿ ಬೊಕ್ಕ ಕಡಲೆನ್ ಅರೆತ್ತುದ್, ಅಟುಕ್ಕ ಪಾಡುನ ಒಂಜಿ ಪತ್ರೊಡೆ. ಉಂದೆನ್ ಕಡಲೆ ಬೊಕ್ಕ ಬಾರ್ ನ್ ಗುಡ್ದೆದ್ ಮಲ್ಪುವೆರ್. ಉಂದೆನ್ ಒಂಜಿ ಪತ್ರೊಡೆಡ್ ಎಲ್ಯೆಲ್ಯೆಡ್ ಬಂಗಾರ್ದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಕುಂಕುಮಗ್ ಮಸಾಲೆನ್ ಲಾಯಿನ್ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Saraswati, how do you make 'Patrode' dish?",
+    "response": "Patrode is a traditional dish of Tulu Nadu. It is made from a paste of rice and chickpeas, which is then made into a patty. It is made by rolling the mixture of chickpeas and rice, and then boiling it with spices and coconut. This is a very traditional dish that is prepared during festivals and weddings."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ`ಯ ವಿಶೇಷತೆ ಏನು?",
+  "response": "ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪ್ರಿಯ ಮೀನು ಅಡುಗೆ. ಉಂದೆನ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಉಪ್ಪು ಬೊಕ್ಕ ಮೆಣಸು ಬೊಕ್ಕ ಕುಂಕುಮಗ್ ಅರೆದ ಅಟಿಲ್ ದೊಟ್ಟುಗು ಪೂಜಿನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು. ಈ ಅಡುಗೆಗ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಕುಂಕುಮ ಅರೆದ ಅಟಿಲ್ ನ್ ಒಂಜಿ ಬಂಗಾರದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಸೀಲ್ ನೊಟ್ಟುಗು ಸೇರಾದ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is special about 'Bangude Pulimunchi' of Tulu Nadu?",
+    "response": "Bangude Pulimunchi is a popular fish dish of Tulu Nadu. It is prepared by frying the fish in a special gravy of coconut and spices. It is a traditional dish that is prepared in weddings and festivals."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಸಿಹಿಯಾದ ತಿಂಡಿ 'ಮಂಗಲೂರು ಬನ್ಸ್' ಬಗ್ಗೆ ತಿಳಿಸು.",
+  "response": "ಮಂಗಲೂರು ಬನ್ಸ್ ತುಳುನಾಡದ ಒಂಜಿ ಸಿಹಿಯಾದ ತಿಂಡಿ. ಉಂದೆನ್ ಬಂಗಾರದ ಬನ್ಸ್ ಅಂದ್ ಪಂಡ್ದ್ ಪನ್ಪೆರ್. ಉಂದೆನ್ ಮಂಗಲೂರುದ ಅಟುಲ್ಲಡ್ ಹೆಚ್ಚಾದ್ ಮಲ್ಪುವೆರ್. ಉಂದೆಗ್ ಬಂಗಾರದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಸೀಲ್ ನೊಟ್ಟುಗು ಬೇತೆ ಬೇರೆ ತಿನಸುಲು ಸೇರಾವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about 'Mangalore Buns', a famous sweet dish of Tulu Nadu.",
+    "response": "Mangalore Buns is a sweet dish of Tulu Nadu. It is also known as Golden Buns. It is a traditional dish that is prepared during festivals and weddings."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡಿನ ಮದುವೆಗಳಲ್ಲಿ ಯಾವ ವಿಶೇಷ ಭಕ್ಷ್ಯಗಳನ್ನು ತಯಾರಿಸುತ್ತಾರೆ?",
+  "response": "ತುಳುನಾಡಿನ ಮದುವೆಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಬಾರ್ ದ ಬನ್ಸ್, ಕೋರಿ ಸುಕ್ಕ, ಪುಳಿ ಮುಂಚಿ, ನೀರ್ ದೋಸೆ, ಕೊರಕ ಪುಳಿ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ಬಗೆಯ ತಿಂಡಿಗಳನ್ನು ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, what special dishes are prepared in Tulu Nadu weddings?",
+    "response": "In Tulu Nadu weddings, they prepare special dishes like Buns, Kori Sukka, Pulimunchi, Neer Dosa, Koraka Puli, and different types of snacks."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡಿನ ಗಂಜಿ ಊಟದ ಮಹತ್ವದ ಬಗ್ಗೆ ವಿವರಿಸು.",
+  "response": "ತುಳುನಾಡಿನ ಗಂಜಿ ಊಟ ಮಸ್ತ್ ಸಾಮಾನ್ಯ ಆಹಾರ. ಉಂದೆನ್ ಮದುವೆ ಬೊಕ್ಕ ಪರ್ಬೊಲುಡುಲ ಮಲ್ಪುವೆರ್. ಈ ಊಟೊಡು ಹೆಚ್ಚಾದ್ ಗಂಜಿ, ಬಾರ್, ಪರ್ಪಿನ, ಮಸಾಲೆ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ತರಕಾರಿಗ್ಲೆನ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Explain the importance of 'Ganji Oota' (rice porridge meal) of Tulu Nadu.",
+    "response": "Ganji Oota is a very common meal in Tulu Nadu. It is also served in weddings and festivals. This meal is mostly prepared with rice, water, and spices."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ಮದುವೆಗೆ ಮುಂಚೆ ಮಾಡುವ 'ಮಡಿಗೆ' ಎಂಬ ತಿಂಡಿಯ ಬಗ್ಗೆ ತಿಳಿಸು.",
+  "response": "'ಮಡಿಗೆ' ಪಂಡ ತುಳುನಾಡದ ಮದುವೆಡ್ ಮದುವೆಗೆ ಮುಂಚೆ ಮಲ್ಪುವ ಒಂಜಿ ತಿಂಡಿ. ಈ ತಿಂಡಿ ಮದುವೆದ ಪೂರ್ವ ಆಚರಣೆಲೆಗ್ ಬೋಡಾಯಿನ ಒಂಜಿ ಭಾಗ ಆದಿತ್ತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Saraswati, tell me about the 'Madige' dish that is prepared before a wedding.",
+    "response": "'Madige' is a dish that is prepared before a wedding in Tulu Nadu. This dish is part of the pre-wedding rituals."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡಿನಲ್ಲಿ ಅಕ್ಕಿ ಹಿಟ್ಟಿನಿಂದ ಮಾಡುವ ಬೇರೆ ಬೇರೆ ತಿಂಡಿಗಳು ಯಾವುವು?",
+  "response": "ತುಳುನಾಡಿನಲ್ಲಿ ಅಕ್ಕಿ ಹಿಟ್ಟಿನಿಂದ ನೀರ್ ದೋಸೆ, ಕಡ್ಲೆ ಬೊಕ್ಕ ಬಾರ್ ದ ಅಟುಲ್, ಕೋರಿ ದೋಸೆ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ಬಗೆಯ ತಿಂಡಿಗಳನ್ನು ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What are the different dishes made from rice flour in Tulu Nadu?",
+    "response": "In Tulu Nadu, they make different dishes from rice flour, like Neer Dosa, Kadle and Bonda, Kori Dosa, and other types of snacks."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡಿನ ತಿಂಡಿಗಳಲ್ಲಿ 'ಬಾದಾಮಿ'ಯ ವಿಶೇಷತೆ ಏನು?",
+  "response": "ತುಳುನಾಡಿನ ತಿಂಡಿಗಳಲ್ಲಿ ಬಾದಾಮಿ ಬೊಕ್ಕ ಗೋಡಂಬಿ ಹೆಚ್ಚಾದ್ ಬಳಸುವ ಒಂಜಿ ಪದಾರ್ಥ. ಉಂದೆನ್ ಒಂಜಿ ಅಲಂಕಾರ ಬೊಕ್ಕ ಒಂಜಿ ರುಚಿ ಕೊರ್ಪಿನ ಒಂಜಿ ಪದಾರ್ಥ ಆದಿತ್ತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "What is special about 'Badam' (almond) in Tulu Nadu dishes?",
+    "response": "In Tulu Nadu dishes, almonds and cashew are mostly used. They are used as a garnish and to add flavor to the dishes."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡಿನ 'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ಪಂಡ ದಾದಾ?",
+  "response": "'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ತುಳುನಾಡಿನ ಒಂಜಿ ತಿಂಡಿ. ಉಂದೆನ್ ಸಜ್ಜಿಗೆ ಬೊಕ್ಕ ಬಜಿಲ್ದೊಟ್ಟುಗು ಮಲ್ಪುವೆರ್. ಈ ತಿಂಡಿ ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾದ್ ಬೆಳಗಿನ ತಿಂಡಿಗ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is 'Sajjige-Bajil' in Tulu Nadu?",
+    "response": "'Sajjige-Bajil' is a traditional dish of Tulu Nadu. It is made from sajji and bajil. It is a very common breakfast item."
+  }
+}
+
+
+
+
+//geography OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
