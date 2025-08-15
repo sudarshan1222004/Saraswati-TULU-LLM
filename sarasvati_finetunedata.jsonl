@@ -332,6 +332,15 @@
   }
 },
 
+{
+  "instruction": "ತುಳುನಾಡದ ಇತಿಹಾಸಡ್ `ಅಳಿಯ ಸಂತಾನ ಕಟ್ಟು`ದ ಬಗ್ಗೆ ವಿವರಣೆ ಕೊರ್ಲೆ.",
+  "response": "ಅಳಿಯ ಸಂತಾನ ಕಟ್ಟು ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಕಟ್ಟು. ಈ ಕಟ್ಟುದ ಪ್ರಕಾರ, ಒಂಜಿ ಕುಟುಂಬದ ಆಸ್ತಿ ಪೊಣ್ಣುಲೆಗ್ ಬರ್ಪುಂಡು. ಇವು ಪೊಣ್ಣುಲೆಗ್ ಒಂಜಿ ಸ್ಥಾನೊನು ಕೊರ್ಪಿನ ಒಂಜಿ ಕಟ್ಟು.",
+  "translation_en": {
+    "instruction": "Explain about the 'Aliya Santana Kattu' tradition in the history of Tulu Nadu.",
+    "response": "The 'Aliya Santana Kattu' is a traditional law of Tulu Nadu. According to this law, the property of a family is passed on to the women. This is a law that gives an important place to women."
+  }
+},
+
 //food OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 {
   "instruction": "ಸರಸ್ವತಿ, ನೀರ್ ದೋಸೆನ್ ಎಂಚ ಮಲ್ಪುವೆರ್?",
@@ -360,78 +369,277 @@
 },
 {
   "instruction": "ಸರಸ್ವತಿ, 'ಪತ್ರೊಡೆ' ತಿಂಡಿನ್ ಎಂಚ ಮಲ್ಪುವೆರ್?",
-  "response": "ಪತ್ರೊಡೆ ತಿಂಡಿ ಮಲ್ಪೆರೆ ಅರಿ ಬೊಕ್ಕ ಕಡಲೆನ್ ಅರೆತ್ತುದ್, ಅಟುಕ್ಕ ಪಾಡುನ ಒಂಜಿ ಪತ್ರೊಡೆ. ಉಂದೆನ್ ಕಡಲೆ ಬೊಕ್ಕ ಬಾರ್ ನ್ ಗುಡ್ದೆದ್ ಮಲ್ಪುವೆರ್. ಉಂದೆನ್ ಒಂಜಿ ಪತ್ರೊಡೆಡ್ ಎಲ್ಯೆಲ್ಯೆಡ್ ಬಂಗಾರ್ದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಕುಂಕುಮಗ್ ಮಸಾಲೆನ್ ಲಾಯಿನ್ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
+  "response": "ಪತ್ರೊಡೆ ತಿಂಡಿ ಮಲ್ಪೆರೆ ಅರಿ ಬೊಕ್ಕ ಕಡಲೆನ್ ಅರೆತ್ತುದ್, ಅಟುಕ್ಕ ಪಾಡುನ ಒಂಜಿ ಪತ್ರೊಡೆ. ಉಂದೆನ್ ಕಡಲೆ ಬೊಕ್ಕ ಬಾರ್ ನ್ ಗುಡ್ದೆದ್ ಮಲ್ಪುವೆರ್. ಉಂದೆನ್ ಒಂಜಿ ಪತ್ರೊಡೆಡ್ ಎಲ್ಯೆಲ್ಯೆಡ್ ಬಂಗಾರ್ದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಮಸಾಲೆನ್ ಲಾಯಿನ್ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
   "translation_en": {
     "instruction": "Saraswati, how do you make 'Patrode' dish?",
     "response": "Patrode is a traditional dish of Tulu Nadu. It is made from a paste of rice and chickpeas, which is then made into a patty. It is made by rolling the mixture of chickpeas and rice, and then boiling it with spices and coconut. This is a very traditional dish that is prepared during festivals and weddings."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡದ `ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ`ಯ ವಿಶೇಷತೆ ಏನು?",
-  "response": "ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪ್ರಿಯ ಮೀನು ಅಡುಗೆ. ಉಂದೆನ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಉಪ್ಪು ಬೊಕ್ಕ ಮೆಣಸು ಬೊಕ್ಕ ಕುಂಕುಮಗ್ ಅರೆದ ಅಟಿಲ್ ದೊಟ್ಟುಗು ಪೂಜಿನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು. ಈ ಅಡುಗೆಗ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಕುಂಕುಮ ಅರೆದ ಅಟಿಲ್ ನ್ ಒಂಜಿ ಬಂಗಾರದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಸೀಲ್ ನೊಟ್ಟುಗು ಸೇರಾದ್ ಮಲ್ಪುವೆರ್.",
+  "instruction": "ತುಳುನಾಡದ `ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ`ಯ ವಿಶೇಷತೆ ದಾದ?",
+  "response": "ಬಂಗುಡೆ ಪುಳಿಮುಂಚಿ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪ್ರಿಯ ಮೀನು ಅಡುಗೆ. ಉಂದೆನ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಉಪ್ಪು ಬೊಕ್ಕ ಮೆಣಸು ಅರೆದ ಅಟಿಲ್ ದೊಟ್ಟುಗು ಪೂಜಿನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು. ಈ ಅಡುಗೆಗ್ ಬಂಗುಡೆ ಬೊಕ್ಕ ಮಸಾಲೆನ್ ಅರೆದ ಅಟಿಲ್ ನ್ ಒಂಜಿ ಬಂಗಾರದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಸೀಲ್ ನೊಟ್ಟುಗು ಸೇರಾದ್ ಮಲ್ಪುವೆರ್.",
   "translation_en": {
     "instruction": "What is special about 'Bangude Pulimunchi' of Tulu Nadu?",
     "response": "Bangude Pulimunchi is a popular fish dish of Tulu Nadu. It is prepared by frying the fish in a special gravy of coconut and spices. It is a traditional dish that is prepared in weddings and festivals."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಸಿಹಿಯಾದ ತಿಂಡಿ 'ಮಂಗಲೂರು ಬನ್ಸ್' ಬಗ್ಗೆ ತಿಳಿಸು.",
-  "response": "ಮಂಗಲೂರು ಬನ್ಸ್ ತುಳುನಾಡದ ಒಂಜಿ ಸಿಹಿಯಾದ ತಿಂಡಿ. ಉಂದೆನ್ ಬಂಗಾರದ ಬನ್ಸ್ ಅಂದ್ ಪಂಡ್ದ್ ಪನ್ಪೆರ್. ಉಂದೆನ್ ಮಂಗಲೂರುದ ಅಟುಲ್ಲಡ್ ಹೆಚ್ಚಾದ್ ಮಲ್ಪುವೆರ್. ಉಂದೆಗ್ ಬಂಗಾರದ ಉಪ್ಪನಿಗೆ ಬೊಕ್ಕ ಸೀಲ್ ನೊಟ್ಟುಗು ಬೇತೆ ಬೇರೆ ತಿನಸುಲು ಸೇರಾವೆರ್.",
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಸಿಹಿಯಾದ ತಿಂಡಿ 'ಮಂಗಲೂರು ಬನ್ಸ್' ಬಗ್ಗೆ ಪನ್ಲ್.",
+  "response": "ಮಂಗಲೂರು ಬನ್ಸ್ ತುಳುನಾಡದ ಒಂಜಿ ಸಿಹಿಯಾದ ತಿಂಡಿ. ಉಂದೆನ್ ಬಂಗಾರದ ಬನ್ಸ್ ಅಂದ್ ಪಂಡ್ದ್ ಪನ್ಪೆರ್. ",
   "translation_en": {
     "instruction": "Tell me about 'Mangalore Buns', a famous sweet dish of Tulu Nadu.",
-    "response": "Mangalore Buns is a sweet dish of Tulu Nadu. It is also known as Golden Buns. It is a traditional dish that is prepared during festivals and weddings."
+    "response": "Mangalore Buns is a sweet dish of Tulu Nadu. It is also known as Golden Buns. "
   }
 },
 {
-  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡಿನ ಮದುವೆಗಳಲ್ಲಿ ಯಾವ ವಿಶೇಷ ಭಕ್ಷ್ಯಗಳನ್ನು ತಯಾರಿಸುತ್ತಾರೆ?",
-  "response": "ತುಳುನಾಡಿನ ಮದುವೆಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಬಾರ್ ದ ಬನ್ಸ್, ಕೋರಿ ಸುಕ್ಕ, ಪುಳಿ ಮುಂಚಿ, ನೀರ್ ದೋಸೆ, ಕೊರಕ ಪುಳಿ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ಬಗೆಯ ತಿಂಡಿಗಳನ್ನು ಮಲ್ಪುವೆರ್.",
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ಮದಿಮೆಲೆಡ್ ಎಂಚಿನ ವಿಶೇಷ ತಿನಸುಲು ತಯಾರ್ ಮಲ್ಪುವೆರ್?",
+  "response": "ತುಳುನಾಡದ ಮದುವೆಡ  ಬನ್ಸ್, ಕೋರಿ ಸುಕ್ಕ, ಪುಳಿ ಮುಂಚಿ, ನೀರ್ ದೋಸೆ, ಕೊರಕ ಪುಳಿ ಬೊಕ್ಕ  ಬೇತೆ ಬೇತೆ ಬಗೆಯ ತಿಂಡಿಲು ಮಲ್ಪುವೆರ್.",
   "translation_en": {
     "instruction": "Saraswati, what special dishes are prepared in Tulu Nadu weddings?",
-    "response": "In Tulu Nadu weddings, they prepare special dishes like Buns, Kori Sukka, Pulimunchi, Neer Dosa, Koraka Puli, and different types of snacks."
+    "response": "In Tulu Nadu weddings, they prepare Buns, Kori Sukka, Pulimunchi, Neer Dosa, Koraka Puli, and different types of snacks."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡಿನ ಗಂಜಿ ಊಟದ ಮಹತ್ವದ ಬಗ್ಗೆ ವಿವರಿಸು.",
-  "response": "ತುಳುನಾಡಿನ ಗಂಜಿ ಊಟ ಮಸ್ತ್ ಸಾಮಾನ್ಯ ಆಹಾರ. ಉಂದೆನ್ ಮದುವೆ ಬೊಕ್ಕ ಪರ್ಬೊಲುಡುಲ ಮಲ್ಪುವೆರ್. ಈ ಊಟೊಡು ಹೆಚ್ಚಾದ್ ಗಂಜಿ, ಬಾರ್, ಪರ್ಪಿನ, ಮಸಾಲೆ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ತರಕಾರಿಗ್ಲೆನ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್.",
+  "instruction": "ತುಳುನಾಡದ 'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ಪಂಡ ದಾದಾ?",
+  "response": "'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ತುಳುನಾಡದ ಒಂಜಿ ತಿಂಡಿ. ಉಂದೆನ್ ಸಜ್ಜಿಗೆ ಬೊಕ್ಕ ಬಜಿಲ್ದೊಟ್ಟುಗು ಮಲ್ಪುವೆರ್. ಈ ತಿಂಡಿ ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾದ್ ಕಾಂಡದ ತಿಂಡಿಗ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is 'Sajjige-Bajil' in Tulu Nadu?",
+    "response": "'Sajjige-Bajil' is a traditional dish of Tulu Nadu. It is made from sajji and bajil. It is a very common breakfast item."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಗಂಜಿ ಉುನಸ್ ದ ಮಹತ್ವದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಗಂಜಿ ಉುನಸ್ ಒಂಜಿ ಮಸ್ತ್ ಸಾಮಾನ್ಯ ಅಟುಲ್. ಈ ಉುನಸ್ ಹೆಚ್ಚಾದ್ ಗಂಜಿ, ಬಾರ್, ಪರ್ಪಿನ, ಮಸಾಲೆ ಬೊಕ್ಕ ಬೇತೆ ಬೇತೆ  ತರಕಾರಿಲೆನ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್.",
   "translation_en": {
     "instruction": "Explain the importance of 'Ganji Oota' (rice porridge meal) of Tulu Nadu.",
-    "response": "Ganji Oota is a very common meal in Tulu Nadu. It is also served in weddings and festivals. This meal is mostly prepared with rice, water, and spices."
+    "response": "Ganji lunch is a very common meal in Tulu Nadu. This meal is mostly prepared with rice, water, and spices."
   }
 },
 {
-  "instruction": "ಸರಸ್ವತಿ, ಮದುವೆಗೆ ಮುಂಚೆ ಮಾಡುವ 'ಮಡಿಗೆ' ಎಂಬ ತಿಂಡಿಯ ಬಗ್ಗೆ ತಿಳಿಸು.",
-  "response": "'ಮಡಿಗೆ' ಪಂಡ ತುಳುನಾಡದ ಮದುವೆಡ್ ಮದುವೆಗೆ ಮುಂಚೆ ಮಲ್ಪುವ ಒಂಜಿ ತಿಂಡಿ. ಈ ತಿಂಡಿ ಮದುವೆದ ಪೂರ್ವ ಆಚರಣೆಲೆಗ್ ಬೋಡಾಯಿನ ಒಂಜಿ ಭಾಗ ಆದಿತ್ತ್ಂಡ್.",
+  "instruction": "ಸರಸ್ವತಿ, ಮದಿಮೆಗ್ ದುಂಬು ಮಲ್ಪುನ 'ಮಡಿಗೆ' ಇನ್ಪಿನ ತಿಂಡಿದ ಬಗ್ಗೆ ತೆರಿಪಲೆ.",
+  "response": "'ಮಡಿಗೆ' ಪಂಡ ತುಳುನಾಡದ ಮದಿಮೆಡ್ ಮದಿಮೆಗ್ ದುಂಬು ಮಲ್ಪುವ ಒಂಜಿ ತಿಂಡಿ. ಈ ತಿಂಡಿ ಮದಿಮೆದ ಪೂರ್ವ ಆಚರಣೆಲೆಗ್ ಬೋಡಾಯಿನ ಒಂಜಿ ಭಾಗ ಆತ್ತ್ಂಡ್.",
   "translation_en": {
     "instruction": "Saraswati, tell me about the 'Madige' dish that is prepared before a wedding.",
     "response": "'Madige' is a dish that is prepared before a wedding in Tulu Nadu. This dish is part of the pre-wedding rituals."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡಿನಲ್ಲಿ ಅಕ್ಕಿ ಹಿಟ್ಟಿನಿಂದ ಮಾಡುವ ಬೇರೆ ಬೇರೆ ತಿಂಡಿಗಳು ಯಾವುವು?",
-  "response": "ತುಳುನಾಡಿನಲ್ಲಿ ಅಕ್ಕಿ ಹಿಟ್ಟಿನಿಂದ ನೀರ್ ದೋಸೆ, ಕಡ್ಲೆ ಬೊಕ್ಕ ಬಾರ್ ದ ಅಟುಲ್, ಕೋರಿ ದೋಸೆ ಬೊಕ್ಕ ಬೇರೆ ಬೇರೆ ಬಗೆಯ ತಿಂಡಿಗಳನ್ನು ಮಲ್ಪುವೆರ್.",
+  "instruction": "ತುಳುನಾಡ್‌ಡ್ ಅರಿತ್ತ ಹಿಟ್ಟ್‌ಡ್ ಮಲ್ಪುನ ಬೇತೆ ಬೇತೆ ತಿಂಡಿಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡ್‌ಡ್ ಅರಿತ್ತ ಹಿಟ್ಟ್‌ಡ್ ನೀರ್ ದೋಸೆ, ಕಡ್ಲೆ ಬೊಕ್ಕ ಬಾರ್ ದ ಅಟುಲ್, ಕೋರಿ ದೋಸೆ ಬೊಕ್ಕ ಬೇತೆ ಬೇರೆ ಬಗೆಯ ತಿಂಡಿಲೆನ್ ಮಲ್ಪುವೆರ್.",
   "translation_en": {
     "instruction": "What are the different dishes made from rice flour in Tulu Nadu?",
     "response": "In Tulu Nadu, they make different dishes from rice flour, like Neer Dosa, Kadle and Bonda, Kori Dosa, and other types of snacks."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡಿನ ತಿಂಡಿಗಳಲ್ಲಿ 'ಬಾದಾಮಿ'ಯ ವಿಶೇಷತೆ ಏನು?",
-  "response": "ತುಳುನಾಡಿನ ತಿಂಡಿಗಳಲ್ಲಿ ಬಾದಾಮಿ ಬೊಕ್ಕ ಗೋಡಂಬಿ ಹೆಚ್ಚಾದ್ ಬಳಸುವ ಒಂಜಿ ಪದಾರ್ಥ. ಉಂದೆನ್ ಒಂಜಿ ಅಲಂಕಾರ ಬೊಕ್ಕ ಒಂಜಿ ರುಚಿ ಕೊರ್ಪಿನ ಒಂಜಿ ಪದಾರ್ಥ ಆದಿತ್ತ್ಂಡ್.",
+  "instruction": "ತುಳುನಾಡದ ತಿಂಡಿಲೆಡ್ 'ಬಾದಾಮಿ'ಯ ವಿಶೇಷತೆ ಎಂಚಿನ?",
+  "response": "ತುಳುನಾಡದ ತಿಂಡಿಲೆಡ್ ಬಾದಾಮಿ ಬೊಕ್ಕ ಗೋಡಂಬಿ ಹೆಚ್ಚಾದ್ ಬಳಸುವ ಒಂಜಿ ಪದಾರ್ಥ. ಉಂದೆನ್ ಒಂಜಿ ಅಲಂಕಾರ ಬೊಕ್ಕ ಒಂಜಿ ರುಚಿ ಕೊರ್ಪಿನ ಒಂಜಿ ಪದಾರ್ಥ",
   "translation_en": {
     "instruction": "What is special about 'Badam' (almond) in Tulu Nadu dishes?",
     "response": "In Tulu Nadu dishes, almonds and cashew are mostly used. They are used as a garnish and to add flavor to the dishes."
   }
 },
 {
-  "instruction": "ತುಳುನಾಡಿನ 'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ಪಂಡ ದಾದಾ?",
-  "response": "'ಸಜ್ಜಿಗೆ-ಬಜಿಲ್' ತುಳುನಾಡಿನ ಒಂಜಿ ತಿಂಡಿ. ಉಂದೆನ್ ಸಜ್ಜಿಗೆ ಬೊಕ್ಕ ಬಜಿಲ್ದೊಟ್ಟುಗು ಮಲ್ಪುವೆರ್. ಈ ತಿಂಡಿ ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾದ್ ಬೆಳಗಿನ ತಿಂಡಿಗ್ ಮಲ್ಪುವೆರ್.",
+  "instruction": "ತುಳುನಾಡದ `ಕರಿಬೇವ್ ಬೋಂಡ` ಪಂಡ ದಾದಾ?",
+  "response": "ಕರಿಬೇವ್ ಬೋಂಡ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪ್ರಿಯ ತಿನಸ್. ಉಂದೆನ್ ಬಾರ್ ದ ಹಿಟ್ಟ್, ಕರಿಬೇವ್ ಬೊಕ್ಕ ತಾರಾಯಿದ ಪುಚ್ಚೊನ್ ಗಲಸುದು ತಯಾರ್ ಮಲ್ಪುವೆರ್. ಈ ತಿಂಡಿಗ್ ಒಂಜಿ ಮಸಾಲೆ ರುಚಿ ಉಂಡು.",
   "translation_en": {
-    "instruction": "What is 'Sajjige-Bajil' in Tulu Nadu?",
-    "response": "'Sajjige-Bajil' is a traditional dish of Tulu Nadu. It is made from sajji and bajil. It is a very common breakfast item."
+    "instruction": "What is 'Karibev Bonda' of Tulu Nadu?",
+    "response": "'Karibev Bonda' is a popular snack of Tulu Nadu. It is made from rice flour, curry leaves, and grated coconut. This snack has a spicy and savory flavor."
   }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, 'ಹಲಿ' ಅಡ್ಡೆನ್ ಎಂಚ ಮಲ್ಪುವೆರ್?",
+  "response": "'ಹಲಿ' ಅಡ್ಡೆನ್ ಕತ್ತಿನ ಕಸಗಲ್ ದ ಹಿಟ್ಟ್, ತೆಂಗ್ ದ ಹಾಲ್ ಬೊಕ್ಕ ಬೆಲ್ಲನ್ ಒಂಜಿ ಪಾತ್ರೆಡ್ ಸೇರಾದ್, ಒಂಜಿ ತುಪ್ಪದ ಪಾತ್ರೆಡ್ ಮಲ್ಪುವೆರ್. ಉಂದ್ ಒಂಜಿ ಸಿಹಿಯಾದ ತಿಂಡಿ.",
+  "translation_en": {
+    "instruction": "Saraswati, how do you make 'Hali' dessert?",
+    "response": "'Hali' dessert is made by mixing milk, jaggery, and coconut in a pot. It is a sweet dessert that is often made during festivals."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ತಿಂಡಿಲೆಡ್ 'ಪುದಿಯ'ದ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಪುದಿಯ ತುಳುನಾಡದ ಒಂಜಿ ಪರ್ಬದ ತಿಂಡಿ. ಉಂದೆನ್ ಬಾರ್ ದ ಹಿಟ್ಟ್, ನೀರ್ ಬೊಕ್ಕ ಬೆಲ್ಲನ್ ಒಂಜಿ ಪಾತ್ರೆಡ್ ಸೇರಾದ್, ಮಲ್ಪುನ ಒಂಜಿ ತಿಂಡಿ. ಈ ತಿಂಡಿಗ್ ಒಂಜಿ ಪ್ರತ್ಯೇಕವಾಯಿನ ರುಚಿ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Pudiya' in Tulu Nadu dishes?",
+    "response": "'Pudiya' is a festival dish of Tulu Nadu. It is made by mixing rice flour, water, and jaggery in a pot. This dish has a unique taste."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ 'ಮಸ್ತ್' ಇನ್ಪಿನ ಅಡಿಗೆ ದಾದಾ?",
+  "response": "'ಮಸ್ತ್' ಇನ್ಪಿನ ಅಡಿಗೆ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಅಡ್ಡೆ ಬೊಕ್ಕ ತಾರಾಯಿದ ಹಾಲ್ ದೊಟ್ಟುಗು ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the 'Mast' dish of Tulu Nadu?",
+    "response": "'Mast' is a traditional dish of Tulu Nadu. It is prepared by mixing a special gravy with coconut milk."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ತಿಂಡಿಲೆಡ್ 'ಕರಿಮುಂಚಿ'ದ ಉಪಯೋಗ ಎಂಚಿನ?",
+  "response": "ಕರಿಮುಂಚಿ ತುಳುನಾಡದ ಅಡಿಗೆಲೆಡ್ ಮಸ್ತ್ ಉಪಯೋಗ ಮಲ್ಪುನ ಒಂಜಿ ಮಸಾಲೆ. ಉಂದೆನ್ ಹೆಚ್ಚಾದ್ ಮಸಾಲೆ ಅಡಿಗೆಲೆಡ್ ಬೊಕ್ಕ ಬೋಂಡ ಮಲ್ಪೆರೆಗ್ ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is the use of 'Karimunchi' in Tulu Nadu dishes?",
+    "response": "Karimunchi (black pepper) is a spice that is widely used in Tulu Nadu dishes. It is used in spicy dishes and also for making bonda."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ `ಕುಡ್‌ಬು` ಪಂಡ ದಾದಾ?",
+  "response": "ಕುಡ್‌ಬು ತುಳುನಾಡದ ಒಂಜಿ ವಿಶೇಷ ತಿಂಡಿ. ಉಂದೆನ್ ಬಾರ್ ದ ಹಿಟ್ಟ್ ಬೊಕ್ಕ ತೆಂಗ್ ದ ತುಪ್ಪದೊಟ್ಟುಗು ಮಲ್ಪುವೆರ್. ಈ ತಿಂಡಿ ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾದ್ ಕಾಂಡೆದ ತಿಂಡಿಗ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, what is 'Kudubu' of Tulu Nadu?",
+    "response": "'Kudubu' is a special dish of Tulu Nadu. It is made from rice flour and a gravy of coconut. It is a very common breakfast item."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಆಹಾರ ಪದ್ಧತಿಡ್ 'ಉಪ್ಪಿನಂಗಡಿ'ಯ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "'ಉಪ್ಪಿನಂಗಡಿ' ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಬಾರ್ ದ ಕಡಲೆ ಬೊಕ್ಕ ಮೆಣಸು ಬೊಕ್ಕ ಉಪ್ಪು ಸೇರಾದ್, ಒಂಜಿ ಪಾತ್ರೆಡ್ ಮಲ್ಪುವೆರ್. ಈ ಆಹಾರ ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾದ್ ಬೇಸಾಯದ ಪುನೋನಾದಿಗ್ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Uppinangadi' in Tulu Nadu food culture?",
+    "response": "'Uppinangadi' is a traditional food of Tulu Nadu. It is made from a mixture of chickpea, pepper, and salt in a pot. This dish is very common during the farming season."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಪಾನೀಯ ವೋವು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಪಾನೀಯ 'ತಂಪು' ಅಂದ್ ಪಂಡ್ದ್ ಪನ್ಪೆರ್. ಉಂದೆನ್ ತೆಂಗ್ ದ ಹಾಲ್ ಬೊಕ್ಕ ಬೇತೆ ಬೇತೆ ಬಗೆಯ ಮಸಾಲೆ ಸೇರಾದ್ ಮಲ್ಪುವೆರ್. ಈ ಪಾನೀಯ ಬೇಸಾಯದ ಪುನೋನಾದಿಗ್ ಅಂಚನೆ ಒಂಜಿ ಹಬ್ಬದ ದೀನೊಡು ಮಸ್ತ್ ಸಾಮಾನ್ಯವಾಯಿನವು.",
+  "translation_en": {
+    "instruction": "Saraswati, what is the famous beverage of Tulu Nadu?",
+    "response": "The famous beverage of Tulu Nadu is called 'Tampu'. It is made by mixing coconut milk with different types of spices. This beverage is very common during the farming season and also on festive days."
+  }
+},
+//HISTORY OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+{
+  "instruction": "ತುಳುನಾಡದ ಆಳುಪ ರಾಜವಂಶದ ಬಗ್ಗೆ ವಿವರಣೆ ಕೊರ್ಲೆ.",
+  "response": "ಆಳುಪ ರಾಜವಂಶ ತುಳುನಾಡನ್ ಸುರು ಮಲ್ತಿನ ಒಂಜಿ ಇತಿಹಾಸೊಡು ಪುದರ್ ಆಯಿನ ರಾಜವಂಶ. ಇಂದೆನ್ ಸುಮಾರ್ 2ನೆ ಶತಮಾನೊಡು ಸುರು ಮಲ್ದರ್. ಅಕುಲು ಕರಾವಳಿ ಕರ್ನಾಟಕೊನು ಸುಮಾರ ಸಾವಿರ ವರ್ಷ ಆಳೊಂದಿತ್ತೆರ್.",
+  "translation_en": {
+    "instruction": "Explain about the Alupa dynasty of Tulu Nadu.",
+    "response": "The Alupa dynasty is a historically famous dynasty that started Tulu Nadu. It was a dynasty that started around the 2nd century. They ruled the coastal Karnataka for about a thousand years."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ರಾಣಿ ಅಬ್ಬಕ್ಕಳ ಬಗ್ಗೆ ಒಂಜಿ ಸಣ್ಣ ಕಥೆನ್ ಪನ್ಲೆ.",
+  "response": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ತುಳುನಾಡದ ಒಂಜಿ ಧೈರ್ಯವಂತ ರಾಜಕುಮಾರಿ. ಆರ್ 16ನೆ ಶತಮಾನೊಡು ಪೋರ್ಚುಗೀಸೆರೆನ ವಿರುದ್ಧ ಹೋರಾಟ ಮಲ್ತ್‌ದ್, ಧೈರ್ಯ ಬೊಕ್ಕ ಸ್ವಾತಂತ್ರ್ಯದ ಸಂಕೇತ ಆಯೆರ್. ಆರ್ ಒಂಜಿ ಮಹಾರಾಣಿಯಾದ್, ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಎಡ್ಡೆ  ಆಯೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, tell a short story about Queen Abbakka.",
+    "response": "Queen Abbakka was a brave queen of Tulu Nadu. She fought against the Portuguese in the 16th century and became a symbol of courage and freedom. She became a great queen for the people of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ಇತಿಹಾಸಡ್ ಒಂಜಿ ಪ್ರಮುಖ ರಾಣಿನ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಇತಿಹಾಸಡ್ ರಾಣಿ ಅಬ್ಬಕ್ಕ ಒಂಜಿ ಪ್ರಮುಖ ರಾಣಿ. ಆರ್ ಪೋರ್ಚುಗೀಸೆರೆನ ವಿರುದ್ಧ ಹೋರಾಟ ಮಲ್ತ್‌ದ್ ಒಂಜಿ ಧೈರ್ಯವಂತ ರಾಜಕುಮಾರಿಯಾದ್ ಪುದರ್ ಆಯೆರ್.",
+  "translation_en": {
+    "instruction": "Saraswati, tell me the name of an important queen in the history of Tulu Nadu.",
+    "response": "In the history of Tulu Nadu, Queen Abbakka is an important queen. She fought against the Portuguese and became famous as a brave queen."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಾಚೀನ ಕಾಲದ ಕೆಲವು ರಾಜವಂಶೊಲೆನ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಪ್ರಾಚೀನ ಕಾಲದ ಕೆಲವು ರಾಜವಂಶೊಲು: ಆಳುಪ, ಕದಂಬ, ಬೊಕ್ಕ ಚಾಲುಕ್ಯ. ಅಕುಲು ತುಳುನಾಡ್‌ದ ಇತಿಹಾಸಗ್ ಒಂಜಿ ಪುದರ್ ಆಯಿನ ",
+  "translation_en": {
+    "instruction": "Tell me the names of some ancient dynasties of Tulu Nadu.",
+    "response": "Some ancient dynasties of Tulu Nadu are: Alupa, Kadamba, and Chalukya. They are famous for the history of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಇತಿಹಾಸಡ್ `ಕೋಟಿ ಚೆನ್ನಯ್ಯ`ನ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಕೋಟಿ ಚೆನ್ನಯ್ಯ ತುಳುನಾಡದ ಒಂಜಿ ಜನಪದ ಕಥೆದ ಪಾತ್ರಧಾರಿಲು. ಅಕುಲು ಧೈರ್ಯ ಬೊಕ್ಕ ನ್ಯಾಯದ ಸಂಕೇತ ಆಯೆರ್. ಅಕುಲು ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಎಡ್ಡೆ ಜನಕುಲು ಆಯೆರ್.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Koti Chennaya' in the history of Tulu Nadu?",
+    "response": "Koti Chennaya are characters in a folk tale of Tulu Nadu. They became symbols of courage and justice for the people. They became good rulers for the people of Tulu Nadu."
+  }
+},
+{
+    "instruction": "ತುಳುನಾಡದ ಭಾಷೆದ ಮೂಲದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+    "response": "ತುಳು ಭಾಷೆ ದ್ರಾವಿಡ ಭಾಷೆ ಕುಟುಂಬಕ್ಕ್ ಸೇರ್‍ದ್ಂಡ್. ನೆಕ್ ಸುಮಾರ್ 2000 ವರ್ಸೊದ ಪಿರಾತ ಇತಿಹಾಸ ಉಂಡು.",
+    "translation_en": {
+      "instruction": "Tell me about the origin of the Tulu language.",
+      "response": "The Tulu language belongs to the Dravidian language family. It has a history of about 2000 years."
+    }
+},
+{
+    "instruction": "ಭೂತಾರಾಧನೆ ಬೊಕ್ಕ ನಾಗಾರಾಧನೆದ ಮಹತ್ವ ಎಂಚಿನ?",
+    "response": "ಭೂತಾರಾಧನೆ ಬೊಕ್ಕ ನಾಗಾರಾಧನೆ ತುಳುನಾಡದ ಸಂಸ್ಕೃತಿಡ್ ಒಂಜಿ ಮುಖ್ಯ ಭಾಗ. ಉಂದು ಗ್ರಾಮೀಣ ಜನಕ್ಲೆನ ದೈವಿಕ ಆರಾಧನಾ ರೂಪೊಲು. ಭೂತಾರಾಧನೆ ದೈವೊಲೆನ್ ಆರಾಧನೆ ಮಲ್ಪುವೆರ್, ನಾಗಾರಾಧನೆ ನಾಗ ದೇವರ್‍ನ ಆರಾಧನೆ.",
+    "translation_en": {
+      "instruction": "What is the importance of Bhootharadhane and Nagaradhane?",
+      "response": "Bhootharadhane and Nagaradhane are an integral part of Tulu Nadu's culture. These are forms of divine worship among the rural population. Bhootharadhane is the worship of spirits (Bhoothas), and Nagaradhane is the worship of the snake god."
 }
+},
+{
+    "instruction": "ಪರಶುರಾಮ ಕ್ಷೇತ್ರ ಪಂದ್ ತುಳುನಾಡನ್ ದಾಯೆ ಪನ್ಪರ್?",
+    "response": "ಪರಶುರಾಮ ದೇವೆರ್ ಸಮುದ್ರದ ನೀರ್‍ನ್ ಪಿರ ಜಗತ್ತುಗು  ಒತ್ತ್‌ದ್ ಈ ಭೂಮಿನ್ ಸೃಷ್ಟಿ ಮಲ್ತೆರ್ ಪಂದ್ ನಂಬಿಕೆ ಉಂಡು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಸೊಗು ಪರಶುರಾಮ ಕ್ಷೇತ್ರ ಪಂದ್ ಪುದರ್ ಬತ್ತಂಡ್.",
+    "translation_en": {
+      "instruction": "Why is Tulu Nadu called 'Parashurama Kshetra'?",
+     "response": "It is believed that Lord Parashurama created this land by pushing back the sea. Hence, this region is known as 'Parashurama Kshetra'."
+}
+},
+{
+    "instruction": "ತುಳುನಾಡಿನ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ಸ್ಮಾರಕದ ಪುದರ್ ಪನ್ಲೆ.",
+    "response": "ತುಳುನಾಡಿನ ಒಂಜಿ ಪ್ರಮುಖ ಸ್ಮಾರಕ ಮೂಡಬಿದ್ರೆದ ಸಾವಿರ ಕಂಬದ ಬಸದಿ. ಉಂದು ಒಂಜಿ ಸುಂದರ ಜೈನ ದೇವಾಲಯ.",
+    "translation_en": {
+      "instruction": "Tell me the name of a prominent historical monument in Tulu Nadu.",
+      "response": "A prominent monument in Tulu Nadu is the Saavira Kambada Basadi in Moodabidri. It is a beautiful Jain temple."
+    }
+},
+{
+    "instruction": "ತುಳುನಾಡಿನ ಇತಿಹಾಸಡ್ ಒಂಜಿ ಪ್ರಮುಖ ರಾಜವಂಶ ಬಂಗವಾಡಿ ವಂಶದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+    "response": "ಬಂಗವಾಡಿ ವಂಶ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ರಾಜವಂಶ. ಇಂಚಿನ ರಾಣಿಲು ಬೊಕ್ಕ ರಾಜೆರ್ ತಮ್ಮ ರಾಜ್ಯನ್ ರಕ್ಷಿಸಿಯರ್. ಈ ವಂಶದ ರಾಜೆರ್ ತಮ್ಮ ಧರ್ಮಗ್ ಒತ್ತು ಕೊರ್ಪೆರ್.",
+    "translation_en": {
+      "instruction": "Tell me a fact about the Bangawadi dynasty, an important dynasty in Tulu Nadu's history.",
+      "response": "The Bangawadi dynasty was a prominent dynasty of Tulu Nadu. Their queens and kings protected their kingdom. The kings of this dynasty gave importance to their religion."
+    }
+},
+{
+    "instruction": "ತುಳುನಾಡದ ಪರಶುರಾಮ ಕ್ಷೇತ್ರ ಪಂದ್ ದಾಯೆ ಪನ್ಪರ್?",
+    "response": "ಪುರಾಣದ ಪ್ರಕಾರ, ಪರಶುರಾಮ ದೇವೆರ್ ಸಮುದ್ರೊನ್ ಒತ್ತ್‌ದ್ ಪಿರ ಜತ್ತಿತ್ತೆರ್. ಅಂಚಾದ್ ಈ ಭೂಮಿನ್ ಸೃಷ್ಟಿ ಮಲ್ತೆರ್. ಅಂಚಾದ್ ತುಳುನಾಡಗ್ ಪರಶುರಾಮ ಕ್ಷೇತ್ರ ಪನ್ಪಿನ ಪುದರ್ ಬತ್ತ್‌ದ್ಂಡ್.",
+    "translation_en": {
+      "instruction": "Why is Tulu Nadu referred to as Parashurama Kshetra?",
+      "response": "According to mythology, Lord Parashurama pushed back the sea to create this land. Hence, Tulu Nadu is called Parashurama Kshetra."
+    }
+},
+{
+    "instruction": "ತುಳು ಸಂಸ್ಕೃತಿಡ್ ಮುಖ್ಯವಾದ್ ಇತ್ತಿನ ಪರ್ಬೊಲೆಗ್ ಒಂಜಿ ಉದಾಹರಣೆ ಕೊರ್ಲೆ.",
+    "response": "ತುಳುನಾಡುದ ಮುಖ್ಯ ಪರ್ಬ ಬಿಸು ಪರ್ಬ. ಉಂದು ಸೌರಮಾನ ಯುಗಾದಿದ ಸಂಕೇತ.",
+    "translation_en": {
+      "instruction": "Give an example of a festival that is important in Tulu culture.",
+      "response": "Bisu festival is an important festival in Tulu Nadu. It symbolizes the Solar New Year."
+    }
+},
+
+
+
+
 
 
 
 
 //geography OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಕಡಲತೀರೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಕಡಲತೀರೊಲೆಡ್ ಮಂಗಳೂರುದ ತೀರ್, ಉಡುಪಿದ ತೀರ್ ಬೊಕ್ಕ ಕಾರ್ಕಳದ ತೀರ್ ಮುಖ್ಯವಾಯಿನವು. ಇವುಲು ಪ್ರವಾಸಿಗರ್ ಬೊಕ್ಕ ಜನಕ್ಲೆಗ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Saraswati, what are the famous beaches of Tulu Nadu?",
+    "response": "Among the famous beaches of Tulu Nadu, Mangalore beach, Udupi beach, and Karkala beach are the most important. They are very popular with tourists and locals."
+  }
+},
+{
+  "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಬಸದಿದ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಬಸದಿ ಮೂಡುಬಿದಿರೆದ ಸಾಸಿರ ಕಂಬೊಲುದ ಬಸದಿ. ಉಂದೆನ್ 15ನೆ ಶತಮಾನೊಡು ಸ್ಥಾಪನೆ ಮಲ್ತೆರ್. ಇಂದೆನ್ ಜೈನರ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್ ಬೊಕ್ಕ ಬೇತೆ ಬೇರೆ ಆಚರಣೆಲು ನಡಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Saraswati, tell me the name of a famous Basadi of Tulu Nadu.",
+    "response": "A famous Basadi of Tulu Nadu is the Saasira Kambolu Basadi of Moodabidri. It was established in the 15th century. In this temple, Jains are worshipped and different rituals are performed."
+  }
+},
+ {
+    "instruction": "ತುಳುನಾಡಿನ ಭೌಗೋಳಿಕ ವ್ಯಾಪ್ತಿ ಎಂಚಿನ?",
+    "response": "ತುಳುನಾಡು ಇತ್ತೆದ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ದಕ್ಷಿಣ ಕನ್ನಡ, ಉಡುಪಿ ಜಿಲ್ಲೆ ಬೊಕ್ಕ ಕೇರಳದ ಕಾಸರಗೋಡು ಜಿಲ್ಲೆದ ಬಾಗೊಡು ಬರ್ಪುಂಡು.",
+    "translation_en": {
+      "instruction": "What is the geographical extent of Tulu Nadu?",
+      "response": "Tulu Nadu is located the present-day Dakshina Kannada and Udupi districts of Karnataka, and parts of the Kasaragod district of Kerala."
+    }
+  },
+
+//TEMPLE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಮಠ ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಮಠೊಲೆಡ್ ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ ಮಠ ಬೊಕ್ಕ ಧರ್ಮಸ್ಥಳದ ಮಠೊಲು ಮುಖ್ಯವಾಯಿನವು. ಇವುಲು ಧರ್ಮ, ಶಿಕ್ಷಣ ಬೊಕ್ಕ ಕಲಾಕೃತಿಗ್ಲೆಗ್ ಪುದರ್ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the famous monasteries of Tulu Nadu?",
+    "response": "Among the famous monasteries of Tulu Nadu, Udupi Sri Krishna Matha, Kukke Subramanya Matha, and Dharmasthala Matha are the most important. They are famous for their religion, education, and art."
+  }
+},
