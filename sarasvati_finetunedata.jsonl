@@ -593,7 +593,7 @@
     }
 },
 {
-    "instruction": "ತುಳು ಸಂಸ್ಕೃತಿಡ್ ಮುಖ್ಯವಾದ್ ಇತ್ತಿನ ಪರ್ಬೊಲೆಗ್ ಒಂಜಿ ಉದಾಹರಣೆ ಕೊರ್ಲೆ.",
+    "instruction": "ತುಳು ಸಂಸ್ಕೃತಿಡ್ ಮುಖ್ಯ ಇತ್ತಿನ ಪರ್ಬೊಲೆಗ್ ಒಂಜಿ ಉದಾಹರಣೆ ಕೊರ್ಲೆ.",
     "response": "ತುಳುನಾಡುದ ಮುಖ್ಯ ಪರ್ಬ ಬಿಸು ಪರ್ಬ. ಉಂದು ಸೌರಮಾನ ಯುಗಾದಿದ ಸಂಕೇತ.",
     "translation_en": {
       "instruction": "Give an example of a festival that is important in Tulu culture.",
@@ -601,6 +601,104 @@
     }
 },
 
+  {
+    "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಜಾನಪದ ಕ್ರೀಡೆ ಕಂಬಳದ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+    "response": "ಕಂಬಳ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಕ್ರೀಡೆ. ಉಂದು ಬಾರೀ ಪುದರ್ ಆಯಿನ ಜಾನಪದ ಕ್ರೀಡೆ. ಈ ಕ್ರೀಡೆ ಪೂರ ಅಕ್ಲೆನ್ ಬದ್ಕಾದ್ ಇತ್ತೆಗ್ ಬತ್ತ್ಂಡ್. ಈ ಕ್ರೀಡೆ ರೈತರೆನ ಭತ್ತೊದ ಕೃಷಿದೊಟ್ಟುಗ್ ಆತ್ಂಡ್. ಈ ಕ್ರೀಡೆದ ಇತಿಹಾಸವು ಪಿರಾಕ್‌ಡ್ ತೂಯೆರ್.",
+    "translation_en": {
+      "instruction": "Tell me a fact about the history of Kambala, a prominent folk sport of Tulu Nadu.",
+      "response": "Kambala is a famous sport of Tulu Nadu. It is a very well-known folk sport. It has been practiced by the people for their livelihood and has come down to the present day. This sport is associated with the rice cultivation of farmers. The history of this sport is seen in ancient times."
+    }
+  },
+
+  {
+    "instruction": "ತುಳುನಾಡು ಬೊಕ್ಕ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ನಡುತ ಸಂಬಂಧ ಎಂಚಿನ?",
+    "response": "ತುಳುನಾಡು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಭಾಗ ಆದಿತ್ತ್ಂಡ್. ಈ ಕಾಲೊಡು ರಡ್ಡ್ ರಾಜೊಲೆಗ್ ವ್ಯಾಪಾರೊಡು ಭಾರಿ ಎಡ್ಡೆ ಇತ್ತ್ಂಡ್.",
+    "translation_en": {
+      "instruction": "What was the relationship between Tulu Nadu and the Vijayanagara Empire?",
+      "response": "Tulu Nadu was a part of the Vijayanagara Empire. During this period, both kingdoms had a very good trade relationship."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಸಾಂಪ್ರದಾಯಿಕ ಕಲೆ `ಡೋಲು`ದ ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+    "response": "ಡೋಲು ಪನ್ಪಿನವು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ವಾದ್ಯ. ಉಂದು ಕಂಬಳ ಬೊಕ್ಕ ಬೇತೆ ಧಾರ್ಮಿಕ ಕಾರ್ಯಕ್ರಮೊಲೆಡ್ ಉಪಯೋಗ ಆಪುಂಡು.",
+    "translation_en": {
+      "instruction": "Tell me a fact about 'Dol', a prominent traditional art form of Tulu Nadu.",
+      "response": "Dol is a famous instrument of Tulu Nadu. It is used in Kambala and other religious ceremonies."
+    }
+  },
+  {
+    "instruction": "ಮಹಾಭಾರತೊದ ಬೊಕ್ಕ ಒಂಜಿ ಪುರಾತನ ಕಾಲೊಡು ತುಳುನಾಡದ ಪುದರ್ ಎಂಚ ಇತ್ತ್ಂಡ್?",
+    "response": "ಮಹಾಭಾರತೊದ ಬೊಕ್ಕ ಒಂಜಿ ಪುರಾತನ ಕಾಲೊಡು ತುಳುನಾಡದ ಪುದರ್ 'ಅಳವಖೇಡ' ಪನ್ದ್ ಇತ್ತ್ಂಡ್. ಉಂದು ಆಳಿದುಪ್ಪುನ ಒಂಜಿ ಸಾಮ್ರಾಜ್ಯದ ಪುದರ್.",
+    "translation_en": {
+      "instruction": "What was the name of Tulu Nadu in ancient times after the Mahabharata?",
+      "response": "In ancient times after the Mahabharata, Tulu Nadu was named 'Alvakheda'. It was the name of a kingdom that no longer exists."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡಿನ ರಾಜಕೀಯ ಇತಿಹಾಸೊಡು ಬಿಕ್ರಂಜಿ ಬೊಕ್ಕ ತಿಮ್ಮಪ್ಪ ನಾಯಕೆರೆ ಮಹತ್ವ ಎಂಚಿನ?",
+    "response": "ಬಿಕ್ರಂಜಿ ಬೊಕ್ಕ ತಿಮ್ಮಪ್ಪ ನಾಯಕೆರ್ ತುಳುನಾಡದ ಪ್ರಮುಖ ರಾಜಾಕುಲೆಡ್ ಒರಿ. ಆರ್ 16ನೆ ಶತಮಾನೊಡು ಪೋರ್ಚುಗೀಸೆರೆನ ವಿರುದ್ಧ ರಾಣಿ ಅಬ್ಬಕ್ಕಗ್ ಬೆರಿಸಾಯ ಕೊರ್ದ್ ಹೋರಾಟ ಮಲ್ತೆರ್.",
+    "translation_en": {
+      "instruction": "What is the importance of Vikramji and Timmanna Nayak in the political history of Tulu Nadu?",
+      "response": "Vikramji and Timmanna Nayak are prominent kings of Tulu Nadu. They fought against the Portuguese in the 16th century by supporting Queen Abbakka."
+    }
+  },
+{
+    "instruction": "ತುಳುನಾಡಿನ ಚೌಟ ರಾಜವಂಶದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+    "response": "ಚೌಟ ರಾಜವಂಶ ಒಂಜಿ ಜೈನ ವಂಶ. ಈ ರಾಜವಂಶದ ಜನಕುಲು ಆಲಿಯಸಂತಾನ ಪದ್ದತಿನ್ ಅನುಸರಿಸಯೆರ್. ಈ ರಾಜವಂಶೊಗು ರಾಣಿ ಅಬ್ಬಕ್ಕ ಸೇರೊಂದು ಇತ್ತೆರ್.",
+    "translation_en": {
+      "instruction": "Tell me a fact about the Chowta dynasty of Tulu Nadu.",
+      "response": "The Chowta dynasty was a Jain dynasty. The people of this dynasty followed the matrilineal system of inheritance. Queen Abbakka belonged to this dynasty."
+    }
+  },
+  {
+    "instruction": "ಬೇಕಲ್ ಕೋಟೆದ ಇತಿಹಾಸ ಎಂಚಿನ?",
+    "response": "ಬೇಕಲ್ ಕೋಟೆ ತುಳುನಾಡಿನ ಕಾಸರಗೋಡು ಜಿಲ್ಲೆಡ್ ಉಂಡು. ಇಂದೆನ್ ಪರ ರಾಜಕುಲೆನ ಕಾಲೊಡು ನಿರ್ಮಿಸದೆರ್. ಆ ಕಾಲೊಡು ಈ ಕೋಟೆ ವಿಜಯನಗರ ಬೊಕ್ಕ ಕೆಳದಿ ನಾಯಕೆರೆ ನಡುತ ಪೊರ್‍ಗ್ ಪ್ರಮುಖ ಪಾತ್ರೊನ್ ವಹಿಸಿತ್ತುಂಡು.",
+    "translation_en": {
+      "instruction": "What is the history of Bekal Fort?",
+      "response": "Bekal Fort is located in the Kasaragod district of Tulu Nadu. It was built during the time of ancient kings. During that time, this fort played a major role in the battles between the Vijayanagara and Keladi Nayakas."
+    }
+  },
+  {
+    "instruction": "ಪದ್ದನ ಪಂಡ ಎಂಚಿನ? ಅಯಿನ ಮಹತ್ವ ಎಂಚಿನ?",
+    "response": "ಪದ್ದನೊಲು ತುಳುನಾಡಿನ ಜನಪದ ಕಾವ್ಯೊಲು. ಉಂದು ಬೂತಾರಾಧನೆ, ಕೋಟಿ ಚೆನ್ನಯ್ಯ ಬೊಕ್ಕ ಬೇತೆ ಐತಿಹಾಸಿಕ ಘಟನೆಲೆನ್ ಬೊಕ್ಕ ಪಾತ್ರೊಲೆನ್ ಸಾರುವೆ.",
+    "translation_en": {
+      "instruction": "What are Paddanas? What is their significance?",
+      "response": "Paddanas are the folk ballads of Tulu Nadu. They describe the stories of Bhootharadhane, Koti Chennaya, and other historical events and characters."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡದ `ಆಲಿಯಸಂತಾನ` ಪದ್ದತಿದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+    "response": "ಆಲಿಯಸಂತಾನ ಪಂಡ ತುಳುನಾಡದ ಒಂಜಿ ವಿಶಿಷ್ಟ ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿ. ಅಲ್ಪ ಅಪ್ಪೆನ ಕುಟುಂಬೊಡು ಆಸ್ತಿ ಬೊಕ್ಕ ಅಧಿಕಾರ ಬರ್ಪುಂಡು. ಇಂದೆನ್ ಚೌಟ ಬೊಕ್ಕ ಅಜಿಲ ವಂಶೊಲೆಡ್ ಅನುಸರಿಸಯೆರ್.",
+    "translation_en": {
+      "instruction": "Tell me a fact about the 'Aliyasantana' system of Tulu Nadu.",
+      "response": "Aliyasantana is a unique traditional system of Tulu Nadu. Here, wealth and power are inherited through the mother's family. It was followed by the Chowta and Ajila dynasties."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡಿನ ಇತಿಹಾಸಡ್ ಜೈನ ಧರ್ಮದ ಪಾತ್ರ ಎಂಚಿನ?",
+    "response": "ಜೈನ ಧರ್ಮ ತುಳುನಾಡದ ಸಂಸ್ಕೃತಿಡ್ ಒಂಜಿ ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸಿತ್ತ್ಂಡ್. ಮೂಡಬಿದ್ರಿ, ಕಾರ್ಕಳ ಬೊಕ್ಕ ವೇಣೂರುಗುಲೆಡ್ ಅನೇಕ ಜೈನ ಬಸದಿಲು ಉಪ್ಪುನೆನ್ ತೂವೊಲಿ. ಇಂಚಿನ ಬಸದಿಲು ಬಾರೀ ಇತಿಹಾಸಿಕ ಬೊಕ್ಕ ಧಾರ್ಮಿಕ ಕೇಂದ್ರೊಲು.",
+    "translation_en": {
+      "instruction": "What is the role of Jainism in the history of Tulu Nadu?",
+      "response": "Jainism has played a significant role in Tulu Nadu's culture. One can see many Jain basadis in Moodabidri, Karkala, and Venur. These basadis are very important historical and religious centers."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡಿನ ಪ್ರಮುಖ ಜಾನಪದ ದೇವರುಲೆನ್ ಯಾನ್ ಎಂಚ ತೆರಿಯೊನು?",
+    "response": "ತುಳುನಾಡದ ಜನಪದ ದೇವರುಲು ಅಕುಲೆನ ದೈವಾರಾಧನೆಗ್ ಬಾರಿ ಪ್ರಸಿದ್ಧ ಆಯೆರ್. ಈ ಪೂಜೆಲೆಡ್ `ದೈವ` ಪನ್ಪಿನ ಪ್ರಾಣೊಲು ಬರ್ಪೆರ್. ಈ ಪ್ರಾಣೊಲು ಮಲ್ಲ ದೇವರುಲಾದ್ ಜನೊಕ್ಲೆನ್ ರಕ್ಷಣೆ ಮಲ್ಪುವೆರ್.",
+    "translation_en": {
+      "instruction": "How can I know about the prominent folk deities of Tulu Nadu?",
+      "response": "The folk deities of Tulu Nadu are very famous for their spirit worship. In these worships, spirits called 'Daiva' come. These spirits are believed to protect the people as great deities."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಸಾಂಪ್ರದಾಯಿಕ ಕಲೆ `ಪತ್ತಕ`ದ ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+    "response": "ಪತ್ತಕ ಪನ್ಪಿನವು ತುಳುನಾಡಿನ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಸ್ತಶಿಲ್ಪ. ಉಂದು ವಾದ್ಯೊಲೆನ್, ಪರ್ಬೊಲೆನ್, ದೇವಸ್ಥಾನೊಲೆನ್ ಬೊಕ್ಕ ಜನಪದ ದೃಶ್ಯೊಲೆನ್ ಆಧಾರವಾದ್ ಉಪ್ಪುವೆ.",
+    "translation_en": {
+      "instruction": "Tell me a fact about 'Pattaka', a prominent traditional art form of Tulu Nadu.",
+      "response": "Pattaka is a famous handicraft of Tulu Nadu. It is based on musical instruments, festivals, temples, and folk scenes."
+    }
+  }
+  
 
 
 
@@ -643,3 +741,20 @@
     "response": "Among the famous monasteries of Tulu Nadu, Udupi Sri Krishna Matha, Kukke Subramanya Matha, and Dharmasthala Matha are the most important. They are famous for their religion, education, and art."
   }
 },
+  {
+    "instruction": "ಪರಶುರಾಮನ ಪ್ರಮುಖ ದೇವಾಲಯ ಉಪ್ಪುನ ಒಂಜಿ ಜಾಗದ ಪುದರ್ ಪನ್ಲೆ.",
+    "response": "ಪರಶುರಾಮ ದೇವೆರೆನ ಪ್ರಮುಖ ದೇವಾಲಯ ಕೇರಳ ರಾಜ್ಯದ ತ್ರಿಶೂರ್‍ಡ್ ಉಂಡು.",
+    "translation_en": {
+      "instruction": "Tell me the name of a place where a prominent temple of Parashurama is located.",
+      "response": "A prominent temple of Lord Parashurama is located in Thrissur in the state of Kerala."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಪತ್‍ದ್ ಮಂಜೇಶ್ವರದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+    "response": "ಮಂಜೇಶ್ವರದ ಪದ್ಮನಾಭ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ ತುಳುನಾಡಿನ ಪ್ರಮುಖ ಧಾರ್ಮಿಕ ಕೇಂದ್ರೊಲೆಡ್ ಒಂಜಿ. ಉಂದು ಮಹಾಭಾರತೊದ ಕಥೆದ ನಾಯಕರ್ ಅಯಿನ ಪಾಂಡವರೆಗ್ ಸಂಬಂಧ ಆತ್ಂಡ್ ಪನ್ಪಿನವು ಪೂರಾ ನಂಬಿಕೆ ಮಲ್ತಿದುಲ.",
+    "translation_en": {
+      "instruction": "Tell me about the famous Padmanabha Temple in Manjeshwar.",
+      "response": "Padmanabha Temple in Manjeshwar is one of the most prominent religious centers of Tulu Nadu. It is believed to be related to the Pandavas, who are the heroes of the Mahabharata story."
+    }
+  },
+//PERSON
