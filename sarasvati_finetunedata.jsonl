@@ -850,7 +850,127 @@
     "instruction": "Tell me a fact about Sri Krishna Matha in Udupi.",
     "response": "Sri Krishna Matha in Udupi is a famous monastery. It was established around the 13th century by Sri Madhvacharya. There is a lake and a beautiful palace there. Many festivals are celebrated there."
   }
-}
+},
+{
+  "instruction": "ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯದ ದೇವಾಲಯದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ ಸರ್ಪೊಲೆಗ್ ಬಾರೀ ಪುದರ್ ಆಯಿನವು. ಅಲ್ಪ ನಂಬಿಕೆದ ಪ್ರಕಾರ ಸರ್ಪೊಲು ನೆಕ್ಕ್ ಬರ್ಪೆರ್. ಈ ದೇವಸ್ಥಾನ ಒಂಜಿ ಮಹತ್ವದ ಧಾರ್ಮಿಕ ಕೇಂದ್ರ ಆತ್ಂಡ್. ಈ ದೇವಾಲಯಡ್ ಸೃಷ್ಟಿಶೀಲ ಪೂಜೆಲು, ಕಲಾಕೃತಿ ಬೊಕ್ಕ ಪೂಜೆಲು ನಡಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the Kukke Subramanya Temple.",
+    "response": "Kukke Subramanya temple is very famous for snakes. It is believed that snakes come there. This temple is an important religious center. In this temple, rituals, art, and worship are performed."
+  }
+},
+{
+  "instruction": "ಧರ್ಮಸ್ಥಳದ ಶ್ರೀ ಮಂಜುನಾಥ ದೇವಾಲಯದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಧರ್ಮಸ್ಥಳದ ಶ್ರೀ ಮಂಜುನಾಥ ದೇವಾಲಯ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಧಾರ್ಮಿಕ ಕೇಂದ್ರ. ಈ ದೇವಾಲಯ ಶಿವ ದೇವರ್‍ನ ಪೂಜೆಗ್ ಬಾರೀ ಪ್ರಸಿದ್ಧ ಆತ್ಂಡ್. ಅಲ್ಪ ಬಾರಿ ಜನ ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಧರ್ಮ ದೇವರೆನ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Sri Manjunatha Temple in Dharmasthala.",
+    "response": "Sri Manjunatha Temple in Dharmasthala is a famous religious center. This temple is very famous for the worship of Lord Shiva. Many people come there and worship the lord of dharma."
+  }
+},
+{
+  "instruction": "ಕಟೀಲ್ದು ಶ್ರೀ ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಾಲಯದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕಟೀಲ್ದು ಶ್ರೀ ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಾಲಯ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನ. ಉಂದು ಪೂರ ಭಾರತೊಡು ಪುದರ್ ಆತ್ಂಡ್. ಅಲ್ಪ ಒಂಜಿ ನದಿ ಹರಿಯುಂಡು ಬೊಕ್ಕ ಈ ದೇವಾಲಯ ಪುಣ್ಯನದಿಗ್ ಬಾರೀ ಪ್ರಸಿದ್ಧ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Sri Durgaparameshwari Temple in Kateel.",
+    "response": "Sri Durgaparameshwari Temple in Kateel is a famous temple. It is famous all over India. A river flows there, and this temple is very famous for its sacred river."
+  }
+},
+{
+  "instruction": "ಸೌತಡ್ಕ ಗಣಪತಿ ದೇವಾಲಯದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಸೌತಡ್ಕ ಗಣಪತಿ ದೇವಾಲಯ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯ. ಈ ದೇವಾಲಯದ ವಿಶೇಷ ದಾದ ಪಂಡ, ಗಣಪತಿ ವಿಗ್ರಹ ಬಯಲು ಜಾಗೆಡ್ ಉಂಡು. ಅಲ್ಪ ಅನೇಕ ಬ್ರಹ್ಮಚಾರೀಲು ಉಲ್ಲೆರ್ ಬೊಕ್ಕ ಈ ದೇವಾಲಯೊಗು ಬರ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Soutadka Ganapathi Temple.",
+    "response": "Soutadka Ganapathi Temple is a famous temple of Tulu Nadu. The special feature of this temple is that the Ganapathi idol is in an open field. Many brahmacharis are there and they come to this temple."
+  }
+},
+{
+  "instruction": "ಸೌತಡ್ಕ ಗಣಪತಿ ದೇವಾಲಯದ ಬೊಕ್ಕ ಒಂಜಿ ವಿಶೇಷ ಎಂಚಿನ?",
+  "response": "ಸೌತಡ್ಕ ಗಣಪತಿ ದೇವಾಲಯೊಡು ರಾತ್ರಿದ ಪೂಜೆ ನಡಪುಂಡು. ಇಂದೆನ್ ಪೂರಾ ದೇವರುಲು ಒಟ್ಟಿಗೇ ಬತ್ತ್‌ದ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್ ಪಂದ್ ನಂಬಿಕೆ ಉಂಡು. ಈ ದೇವಾಲಯ ರಾತ್ರಿಡ್ ಪೊರ್ಲುದ ಬೊಲ್ಪುಲೆಡ್ ಜಾಲರಿ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What is another specialty of Soutadka Ganapathi Temple?",
+    "response": "In Soutadka Ganapathi Temple, night worship is performed. It is believed that all the gods come together and worship there. This temple is very beautiful at night with lights."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ನಾಗಾರಾಧನೆಗ್ ಪ್ರಸಿದ್ಧ ಆಯಿನ ಒಂಜಿ ದೇವಾಲಯದ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ನಾಗಾರಾಧನೆಗ್ ಪ್ರಸಿದ್ಧ ಆಯಿನ ಒಂಜಿ ದೇವಾಲಯ ಕುಡುಪು ಶ್ರೀ ಅನಂತಪದ್ಮನಾಭ ದೇವಾಲಯ. ಉಂದು ಪುರಾಣದ ಕಥೆಕುಲೆಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್. ಈ ದೇವಾಲಯೊಗು ನಾಗದೇವರುನ ಪೂಜೆಗ್ ಬಾರಿ ಜನ ಬರ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Name a temple famous for Naga Worship in Tulu Nadu.",
+    "response": "A temple famous for Naga Worship in Tulu Nadu is Kudupu Sri Ananthapadmanabha Temple. It is very famous for its mythological stories. Many people come to this temple for the worship of the snake god."
+  }
+},
+{
+  "instruction": "ಕಾರ್ಕಳದ ಗೊಮ್ಮಟೇಶ್ವರನ ಮೂರ್ತಿ ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+  "response": "ಕಾರ್ಕಳದ ಗೊಮ್ಮಟೇಶ್ವರನ ಮೂರ್ತಿ ಒಂಜಿ ಬಾರೀ ಪೊರ್ಲುದ ಜೈನ ಶಿಲ್ಪಕಲೆದ ಉದಾಹರಣೆ. ಈ ಮೂರ್ತಿನ್ ಸುಮಾರ್ 15ನೇ ಶತಮಾನೊಡು ನಿರ್ಮಿಸಾಯೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me  about the Gomateshwara statue in Karkala.",
+    "response": "The Gomateshwara statue in Karkala is a great example of beautiful Jain sculpture. This statue was built in the 15th century."
+  }
+},
+{
+  "instruction": "ವೇಣೂರು ಗೊಮ್ಮಟೇಶ್ವರ ಮೂರ್ತಿದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ವೇಣೂರು ಗೊಮ್ಮಟೇಶ್ವರನ ಮೂರ್ತಿ ಒಂಜಿ ಮಹತ್ವದ ಜೈನ ಶಿಲ್ಪಕಲೆ. ಉಂದು ಕಾರ್ಕಳದ ಗೊಮ್ಮಟೇಶ್ವರನ ಬೊಕ್ಕಲಾ ಎಚ್ಚ ಮಲ್ಲ ಮೂರ್ತಿ ಆದ್ ಪ್ರಸಿದ್ಧ ಆತ್ಂಡ್. ಅಲ್ಪ ಜೈನ ಆಚರಣೆಲು ನಡಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me  about the Venur Gomateshwara statue.",
+    "response": "The Venur Gomateshwara statue is a significant Jain sculpture. It is more famous than the Gomateshwara of Karkala. Jain rituals are performed there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಜೈನ ಧರ್ಮದ ಪ್ರಮುಖ ಕೇಂದ್ರೊಲೆನ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಜೈನ ಧರ್ಮದ ಪ್ರಮುಖ ಕೇಂದ್ರೊಲು ಮೂಡಬಿದ್ರಿ, ಕಾರ್ಕಳ ಬೊಕ್ಕ ವೇಣೂರು. ಈ ಜಾಗೆಲು ಬಸದಿಲೆಗ್ ಬಾರೀ ಪುದರ್ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Name the major centers of Jainism in Tulu Nadu.",
+    "response": "The major centers of Jainism in Tulu Nadu are Moodabidri, Karkala, and Venur. These places are very famous for their basadis."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಮಠ `ಪೇಜಾವರ ಮಠದ` ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+  "response": "ಪೇಜಾವರ ಮಠ ಉಡುಪಿದ ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ಒಂಜಿ ಮುಖ್ಯ ಭಾಗ. ಉಂದು ಜ್ಞಾನ ಬೊಕ್ಕ ಧರ್ಮದ ಬಗೆಟ್ ಮಸ್ತ್ ಬೇಲೆ ಮಲ್ತ್ಂಡ್. ಈ ಮಠೊಗು ಮಸ್ತ್ ಜನ ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಧಾರ್ಮಿಕ ಆಚರಣೆಲು ನಡಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me about the famous monastery of Tulu Nadu, Pejavara Matha.",
+    "response": "Pejavara Matha is a major part of Udupi's Sri Krishna Matha. It has done a lot of work for knowledge and religion. Many people come to this monastery and religious rituals are performed there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ದೇವಾಲಯ `ಮುಕ್ಕಾಂಬಿಕಾ ದೇವಾಲಯದ` ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+  "response": "ಮುಕ್ಕಾಂಬಿಕಾ ದೇವಾಲಯ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯ. ಉಂದು ಪೂರ ಭಾರತೊಡು ಪುದರ್ ಆಯಿನವು. ಅಲ್ಪ ನಂಬಿಕೆದ ಪ್ರಕಾರ, ಪೂರ ಅಕ್ಲೆನ್ ಬದ್ಕಾದ್ ದೇವರೆನ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್. ಈ ದೇವಾಲಯೊಗು ಮಸ್ತ್ ಜನ ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಪೂಜೆ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me  about the famous 'Mookambika Temple' of Tulu Nadu.",
+    "response": "Mookambika Temple is a famous temple of Tulu Nadu. It is famous all over India. It is believed that all the people worship the god for their livelihood. Many people come to this temple and worship."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿದ `ಅನಂತೇಶ್ವರ ದೇವಾಲಯದ` ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+  "response": "ಅನಂತೇಶ್ವರ ದೇವಾಲಯ ಉಡುಪಿದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯ. ಈ ದೇವಾಲಯ ಪುರಾಣದ ಪ್ರಕಾರ, ವಿಷ್ಣು ಬೊಕ್ಕ ಶಿವ ದೇವರೆಗ್ ಪ್ರಸಿದ್ಧ ಆಯಿನವು. ಈ ದೇವಾಲಯಡ್ ಪೂರ ದೇವರುಲೆನ್ ಪೂಜೆ ಮಲ್ಪುವೆರ್ ಬೊಕ್ಕ ಈ ಜಾಗೆ ಧಾರ್ಮಿಕ ಆಚರಣೆಲೆಗ್ ಪ್ರಸಿದ್ಧ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me  about the 'Ananteshwara Temple' in Udupi.",
+    "response": "Ananteshwara Temple is a famous temple in Udupi. According to mythology, this temple is famous for Lord Vishnu and Lord Shiva. All the gods are worshipped in this temple and this place is famous for its religious rituals."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಜೈನ ಬಸದಿ `ಅಜಿಲ ರಾಜವಂಶದ` ಬಸದಿದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಅಜಿಲ ರಾಜವಂಶದ ಬಸದಿ ಮೂಡಬಿದ್ರಿಡ್ ಉಂಡು. ಉಂದು ಒಂಜಿ ಬಾರೀ ಪೊರ್ಲುದ ಜೈನ ಬಸದಿ. ಈ ಬಸದಿ 15ನೇ ಶತಮಾನೊಡು ನಿರ್ಮಿಸಾಯೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about a prominent Jain Basadi of Tulu Nadu, the 'Ajila Dynasty's' basadi.",
+    "response": "The Ajila dynasty's basadi is in Moodabidri. It is a very beautiful Jain basadi. This basadi was built in the 15th century."
+  }
+},
+{
+  "instruction": "ಕೊಲ್ಲೂರು ಶ್ರೀ ಮೂಕಾಂಬಿಕಾ ದೇವಾಲಯದ ವಾತಾವರಣ ಎಂಚಿನ?",
+  "response": "ಕೊಲ್ಲೂರು ಶ್ರೀ ಮೂಕಾಂಬಿಕಾ ದೇವಾಲಯದ ವಾತಾವರಣ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು. ಅಲ್ಪ ಬಾರೀ ಪೊರ್ಲುದ  ಪರಿಸರ ಉಂಡು. ಅಲ್ಪ ಅನೇಕ ನದಿಲು ಬೊಕ್ಕ ಜಲಪಾತೊಲು ಉಂಡು.",
+  "translation_en": {
+    "instruction": "What is the environment of Kollur Sri Mookambika Temple?",
+    "response": "The environment of Kollur Sri Mookambika Temple is very good. There is a lot of beautiful environment there. There are many rivers and waterfalls there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಮಂದಿರ `ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ದೇವಾಲಯದ` ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ದೇವಾಲಯ ಪೂರ ಭಾರತೊಡು ಪುದರ್ ಆಯಿನವು. ಈ ದೇವಾಲಯ ಶಕ್ತಿಯ ದೇವತೆಯಾದ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್. ಈ ದೇವಾಲಯೊಗು ಜ್ಞಾನ ಬೊಕ್ಕ ಶಕ್ತಿಗ್ ಬಾರೀ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the famous temple of Tulu Nadu, 'Kollur Mookambika Temple'.",
+    "response": "Kollur Mookambika Temple is famous all over India. This temple is very famous as the goddess of power. This temple is very good for knowledge and power."
+  }
+},
 
 
 
@@ -1048,11 +1168,9 @@
   }
 }
 ]
-
-
-//PERSON
-//US-easters
-//college
+//PERSON OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//US-easters OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//college OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
 
