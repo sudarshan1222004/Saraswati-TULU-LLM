@@ -229,7 +229,7 @@
     "instruction": "Tell me a fact about 'Kudu' of Tulu Nadu.",
     "response": "'Kudu' is a famous dish of Tulu Nadu. It is a dish made from flattened rice and coconut. This dish is very popular with the Tulu people."
   }
-}
+},
 
 
 
@@ -557,7 +557,7 @@
     "instruction": "What is special about 'Bangude Pulimunchi' of Tulu Nadu?",
     "response": "Bangude Pulimunchi is a popular fish dish of Tulu Nadu. It is prepared by frying the fish in a special gravy of coconut and spices."
   }
-}
+},
 
 
 
@@ -796,7 +796,7 @@
     "instruction": "How did the Maratha invasions affect Tulu Nadu?",
     "response": "The Maratha invasions affected the economic and political situation of Tulu Nadu. They invaded the coastal areas, causing loss to trade and suffering to the people."
   }
-}
+},
 
 
 
@@ -1012,6 +1012,54 @@
     "response": "Kollur Mookambika Temple is famous all over India. This temple is very famous as the goddess of power. This temple is very good for knowledge and power."
   }
 },
+{
+  "instruction": "ಕದ್ರಿದ ಶ್ರೀ ಮಂಜುನಾಥ ದೇವಾಲಯದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಕದ್ರಿದ ಶ್ರೀ ಮಂಜುನಾಥ ದೇವಾಲಯ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಧಾರ್ಮಿಕ ಕೇಂದ್ರ. ಈ ದೇವಾಲಯ ಶಿವ ದೇವರ್‍ನ ಪೂಜೆಗ್ ಪ್ರಸಿದ್ಧ ಆತ್ಂಡ್. ಈ ದೇವಾಲಯೊಡು ಒಂಜಿ ಪ್ರಾಚೀನ ಕೆರೆ ಉಂಡು ಬೊಕ್ಕ ಪ್ರಕೃತಿ ಸೌಂದರ್ಯ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Sri Manjunatha Temple in Kadri.",
+    "response": "Sri Manjunatha Temple in Kadri is a famous religious center. This temple is famous for the worship of Lord Shiva. There is an ancient lake and natural beauty in this temple."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿದ ಅಷ್ಟ ಮಠೊಲೆನ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಉಡುಪಿದ ಅಷ್ಟ ಮಠೊಲು ಪಂಡ ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯೆರ್ ಸ್ಥಾಪನೆ ಮಲ್ದಿನ ಎಣ್ಮ ಮಠೊಲು. ಇವುಲು ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠೊನು ಆಚರಣೆ ಮಲ್ಪುವೆರ್ ಬೊಕ್ಕ ಆಡಳಿತ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about the Ashta Mathas of Udupi.",
+    "response": "The Ashta Mathas of Udupi are the eight monasteries established by Sri Madhvacharya. They perform rituals and manage the Udupi Sri Krishna Matha."
+  }
+},
+{
+  "instruction": "ಬಪ್ಪನಾಡು ಶ್ರೀ ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಾಲಯದ ಬಗ್ಗೆ ಒಂಜಿ ಪನ್ಲೆ.",
+  "response": "ಬಪ್ಪನಾಡು ಶ್ರೀ ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಾಲಯ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನ. ಉಂದು ಶಂಭವಿ ನದಿಗ್ ಕೈತಲ್ಡ್ ಉಂಡು. ಈ ದೇವಾಲಯ `ಬಪ್ಪನಾಡು ಡೋಲು`ಗ್ ಬಾರೀ ಪುದರ್ ಆಯಿನವು. ಈ ಪರ್ಬೊಡು ಡೋಲು ಬಾರ್ಪಿನವು ಒಂಜಿ ಆಚರಣೆ.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Bappanadu Sri Durgaparameshwari Temple.",
+    "response": "Bappanadu Sri Durgaparameshwari Temple is a famous temple. It is located near the Shambhavi river. This temple is very famous for 'Bappanadu Dolu'. Playing the dol in this festival is a ritual."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡಿನ `ಮುಖೇಡಿ ದೇವಾಲಯ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪನ್ಲೆ.",
+  "response": "ಮುಖೇಡಿ ದೇವಾಲಯ ತುಳುನಾಡಿನ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯ. ಈ ದೇವಾಲಯದ ಪ್ರಮುಖ ದೇವರು ಗಣಪತಿ ದೇವರು. ಈ ದೇವಾಲಯದ ಒಂಜಿ ಪೊರ್ಲುದ ಪರಿಸರ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the 'Mukhedi Temple' of Tulu Nadu.",
+    "response": "Mukhedi Temple is a famous temple of Tulu Nadu. The main deity of this temple is Lord Ganapathi. There is a beautiful environment around this temple."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಮಠ `ಕಣಿಯೂರು ಮಠದ` ಬಗ್ಗೆ ಒಂಜಿ ಪನ್ಲೆ.",
+  "response": "ಕಣಿಯೂರು ಮಠ ಉಡುಪಿದ ಅಷ್ಟ ಮಠೊಲೆಡ್ ಒಂಜಿ. ಈ ಮಠ ಜ್ಞಾನ ಬೊಕ್ಕ ಧರ್ಮದ ಬಗೆಟ್ ಮಸ್ತ್ ಬೇಲೆ ಮಲ್ತ್ಂಡ್. ಈ ಮಠೊಗು ಮಸ್ತ್ ಜನ ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಧಾರ್ಮಿಕ ಆಚರಣೆಲು ನಡಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the famous monastery of Tulu Nadu, 'Kaniyur Matha'.",
+    "response": "Kaniyur Matha is one of the Ashta Mathas of Udupi. This monastery has done a lot of work for knowledge and religion. Many people come to this monastery and religious rituals are performed there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ಗುಂಪೇನ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ಗುಂಪೇನ್ ಪಂಚಗಂಗಾವಳಿ ನದಿಗುಂಪೇನ್. ಉಂದು ವರಾಹಿ, ಹಾಲಾಡಿ, ಚಕ್ರ, ಸೌಪರ್ಣಿಕಾ ಬೊಕ್ಕ ಕುಬ್ಜಾ ನದಿಲೆನ್ ಒಳಗೊಂಡ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Name the major river group of Tulu Nadu.",
+    "response": "The major river group of Tulu Nadu is the Panchagangavali River Group. It includes the Varahi, Haladi, Chakra, Souparnika, and Kubja rivers."
+  }
+}
 
 
 
@@ -1466,10 +1514,358 @@
     "instruction": "What are the geographical features of Belmaun?",
     "response": "Belmaun is a region located on a hill. It is famous for its educational institutions. The soil there is red and there are many trees."
   }
-}
+},
+
 
 
 //AGRICULTURE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+
+
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆ ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆಲು ಬತ್ತೊಲು, ತಾರಾಯಿ, ಅಡಿಕೆ, ಗೋಡಂಬಿ ಬೊಕ್ಕ ಮೆಣಸು. ಇವುಲು ಈ ಪ್ರದೇಶದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the major agricultural crops of Tulu Nadu?",
+    "response": "The major agricultural crops of Tulu Nadu are rice, coconut, areca nut, cashew, and pepper. These crops are very good for the climate of this region."
+  }
+},
+{
+  "instruction": "ಬತ್ತೊದ ಕೃಷಿದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಬತ್ತೊದ ಕೃಷಿ ತುಳುನಾಡದ ಮುಖ್ಯ ಬೆಳೆ. ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿನ್ ಮೂರು ತಿಂಗೊಳುಡು ಮಲ್ಪುವೆರ್: ಕಾರ್ತಿಕ (ಮೇ-ಅಕ್ಟೋಬರ್), ಸುಗ್ಗಿ (ಅಕ್ಟೋಬರ್-ಜನವರಿ) ಬೊಕ್ಕ ಕೊಳಕೆ (ಜನವರಿ-ಏಪ್ರಿಲ್).",
+  "translation_en": {
+    "instruction": "Tell me a fact about rice cultivation.",
+    "response": "Rice cultivation is the main crop of Tulu Nadu. Rice is cultivated in this region in three seasons: Karthika (May-October), Suggi (October-January), and Kolake (January-April)."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ`ಯ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಆಟಿ ತಿಂಗೊಳುಡು, ಈ ಪ್ರದೇಶದ ಜನಕುಲು ತಯಾರಿಸಾವೆರ್. ಈ ಆಹಾರ ಮಸಾಲೆ, ತರಕಾರಿ ಬೊಕ್ಕ ತೆಂಗ್‌ ದ ಹಾಲ್ ಸೇರಾದ್, ಒಂಜಿ ಪರ್ಬದ ತಿಂಡಿ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Aati Ganji' of Tulu Nadu?",
+    "response": "'Aati Ganji' is a traditional food. It is prepared by the people of this region during the Aati month. This food is a festival dish made with spices, vegetables, and coconut milk."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವೃಕ್ಷೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವೃಕ್ಷೊಲು ತಾರಾಯಿ, ಅಡಿಕೆ ಬೊಕ್ಕ ಪತ್ರೊಡೆ. ಈ ವೃಕ್ಷೊಲು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್ ಬೊಕ್ಕ ಜನಕ್ಲೆಗ್ ಬಾರಿ ಉಪಯೋಗ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What are the major trees of Tulu Nadu?",
+    "response": "The major trees of Tulu Nadu are coconut, areca nut, and Patrode. These trees are famous for their natural beauty and are very useful to the people."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ತಾರೆ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "`ತಾರೆ` ತುಳುನಾಡದ ಒಂಜಿ ಮುಖ್ಯ ವೃಕ್ಷ. ಈ ವೃಕ್ಷೊನು ದೈವಾರಾಧನೆ, ನಾಗಾರಾಧನೆ ಬೊಕ್ಕ ಬೇತೆ ಆಚರಣೆಲೆಡ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್. ಈ ವೃಕ್ಷೊನು `ಕಲ್ಪವೃಕ್ಷ` ಅಂದ್ಲಾ ಪನ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the 'Tare' (coconut tree) of Tulu Nadu.",
+    "response": "'Tare' is a major tree of Tulu Nadu. This tree is used in 'Bhootaradhane', 'Nagaradhane', and other rituals. This tree is also called 'Kalpavriksha'."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿ ಉಪಕರಣೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿ ಉಪಕರಣೊಲು ನೇಗಿಲು, ಕುಂಬುಡು, ಬೊಕ್ಕ ಎರ್ ದ ಗಾಡಿ. ಈ ಉಪಕರಣೊಲು ಬೇಸಾಯೊಗು ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the main agricultural tools of Tulu Nadu?",
+    "response": "The main agricultural tools of Tulu Nadu are the plough, the hoe, and the bullock cart. These tools are very useful for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು `ಪಣವು`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಪಣವು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು. ಉಂದು ಉಷ್ಣ ಮರೊಲೆಡ್ ಬರ್ಪುಂಡು. ಈ ಹಣ್ಣು ರುಚಿ ಬೊಕ್ಕ ಪೂರೆಡ್‍ಲಾ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Panavu' (jackfruit), a famous fruit of Tulu Nadu.",
+    "response": "'Panavu' is a famous fruit of Tulu Nadu. It grows on tropical trees. This fruit is very delicious and healthy."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಹಣ್ಣು `ಮಾವು`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಮಾವು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು. ಉಂದು ಈ ಪ್ರದೇಶದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು. ಈ ಹಣ್ಣು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Mavu' (mango), a major fruit of Tulu Nadu.",
+    "response": "'Mavu' is a famous fruit of Tulu Nadu. It is very good for the climate of this region. This fruit is famous for its natural beauty."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತರಕಾರಿ `ಬದನೆ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಬದನೆ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತರಕಾರಿ. ಉಂದು ಬೇಸಾಯೊಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬದನೆದ ಕೃಷಿ ಜಾಸ್ತಿ.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Badane' (brinjal), a famous vegetable of Tulu Nadu.",
+    "response": "'Badane' is a famous vegetable of Tulu Nadu. It is very useful for farming. Hence, brinjal cultivation is more common in this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ `ಗೋಡಂಬಿ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಗೋಡಂಬಿ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ. ಈ ಬೆಳೆನ್ ಬೆಟ್ಟದ ಮಿತ್ತ್ ಕೃಷಿ ಮಲ್ಪುವೆರ್. ಈ ಬೆಳೆಗ್ ಒಂಜಿ ಮಸಾಲೆ ರುಚಿ ಉಂಡು. ಈ ಪ್ರದೇಶೊಡು ಗೋಡಂಬಿ ಹೆಚ್ಚಾದ್ ರಫ್ತು ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Godambi' (cashew), a major commercial crop of Tulu Nadu.",
+    "response": "'Godambi' is a major commercial crop of Tulu Nadu. This crop is cultivated on the hills. This crop has a savory taste. Cashews are mostly exported from this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಕುದುರೆ ಜಯ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕುದುರೆ ಜಯ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ಕೃಷಿ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊಂಡೊಲುಂಡು. ಈ ಆಚರಣೆದ ಬೊಕ್ಕ, ತುಳು ಜನೊಕುಲು ಒಂಜಿ ಹೊಸ ಕೃಷಿ ಕೆಲಸಗ್ ಸುರು ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about 'Kudure Jaya', which is important for agriculture in Tulu Nadu.",
+    "response": "'Kudure Jaya' is a traditional ritual of Tulu Nadu. In this ritual, a sacred and valuable offering is given to agriculture. After this ritual, the Tulu people begin a new agricultural work."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಭತ್ತದ ಕೃಷಿ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಭತ್ತದ ಕೃಷಿ ತುಳುನಾಡದ ಮುಖ್ಯ ಬೆಳೆ. ಈ ಪ್ರದೇಶೊಡು ಭತ್ತೊನ್ ಹೆಚ್ಚಿನ ಜನಕುಲು ಕೃಷಿ ಮಲ್ಪುವೆರ್. ಭತ್ತೊದ ಕೃಷಿ ಆಯಿನ ಬೊಕ್ಕ, ಬತ್ತೊದ ತಿಂಡಿಗ್ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Bhattada Krishi' (rice cultivation), which is important for agriculture in Tulu Nadu.",
+    "response": "'Bhattada Krishi' is the main crop of Tulu Nadu. Rice is cultivated by many people in this region. After the cultivation of rice, there is a ritual of making rice snacks."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಕುದುರೆ ಜಯ`ದ ಬಗ್ಗೆ ಬೊಕ್ಕ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಕುದುರೆ ಜಯ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊಂಡೊಲುಂಡು. ಈ ಆಚರಣೆ ರೈತರೆನ ಜೀವನೊಗ್ ಪ್ರಮುಖ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me another fact about 'Kudure Jaya', which is important for agriculture in Tulu Nadu.",
+    "response": "'Kudure Jaya' is a traditional ritual of Tulu Nadu. In this ritual, a sacred and valuable offering is given to agriculture. This ritual is important for the livelihood of farmers."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ`ಯ ಬಗೆಟ್ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಆಟಿ ತಿಂಗೊಳುಡು, ಈ ಪ್ರದೇಶದ ಜನಕುಲು ತಯಾರಿಸಾವೆರ್. ಈ ಆಹಾರ ಮಸಾಲೆ, ತರಕಾರಿ ಬೊಕ್ಕ ತೆಂಗ್‌ ದ ಹಾಲ್ ಸೇರಾದ್, ಒಂಜಿ ಪರ್ಬದ ತಿಂಡಿ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Aati Ganji' of Tulu Nadu.",
+    "response": "'Aati Ganji' is a traditional food. It is prepared by the people of this region during the Aati month. This food is a festival dish made with spices, vegetables, and coconut milk."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ತಾರಿ ಮರ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತಾರಿ ಮರ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಮರ. ಇಂದೆನ್ ತೆಂಗುದ ಮರತಲೆಕ್ಕನೇ 'ಕಲ್ಪವೃಕ್ಷ' ಅಂದ್ ಪನ್ಪೆರ್. ಇಂದೆತ್ತ ಪರ್ಂದ್, ಇರೆ ಬೊಕ್ಕ ರಸೊನು ಮಸ್ತ್ ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about the 'Tari Mara' (palmyra palm) of Tulu Nadu.",
+    "response": "The 'Tari Mara' is an important tree of Tulu Nadu. Like the coconut tree, it is also called 'Kalpavriksha'. Its fruit, leaves, and sap are used for many purposes."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ 'ಸಣಬು'ದ ಪಾತ್ರ ಎಂಚಿನ?",
+  "response": "ಸಣಬು ಒಂಜಿ ಕೃಷಿದ ಬೆಳೆ. ಇಂದೆನ್ ಮಣ್ಣಿನ ಗುಣೋನು ಎಡ್ಡೆ ಮಲ್ಪೆರೆಗಾದ್ ಬೆಳೆಸುವೆರ್. ಕೃಷಿ ಕೆಲಸಗ್ ಬಾರೀ ಎಡ್ಡೆ ಆಯಿನವು. ಈ ಬೆಳೆನ್ ಕೃಷಿದ ನಡುನಡುತ ಅವಸ್ಥೆಡ್ ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is the role of 'Sanabu' (jute) in the agricultural practices of Tulu Nadu?",
+    "response": "'Sanabu' is an agricultural crop. It is cultivated to improve the quality of the soil. It is very useful for farming. This crop is used in the intermediate stages of cultivation."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ `ಭತ್ತದ ಪಜೆ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಭತ್ತದ ಪಜೆ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಕೃಷಿದ ಉಪಕರಣ. ಇಂದೆನ್ ಬತ್ತೊದ ಕೃಷಿ ಕೆಲಸೊಡು ಉಪಯೋಗ ಮಲ್ಪುವೆರ್. ಈ ಉಪಕರಣೊನು ಕೈಯೆಡ್ ಮಲ್ಪುವೆರ್ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರಿ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Bhattada Paje' (rice hay) in the agricultural practices of Tulu Nadu.",
+    "response": "'Bhattada Paje' is a traditional agricultural tool of Tulu Nadu. It is used in rice cultivation. This tool is made by hand and is very useful for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಕುದುರೆ ಜಯ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕುದುರೆ ಜಯ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊಂಡೊಲುಂಡು. ಈ ಆಚರಣೆ ರೈತರೆನ ಜೀವನೊಗ್ ಪ್ರಮುಖ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me another fact about 'Kudure Jaya', which is important for agriculture in Tulu Nadu.",
+    "response": "'Kudure Jaya' is a traditional ritual of Tulu Nadu. In this ritual, a sacred and valuable offering is given to agriculture. This ritual is important for the livelihood of farmers."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಪುಣ್ಯಾನ` ಪಂಡ ದಾದಾ?",
+  "response": "`ಪುಣ್ಯಾನ` ತುಳುನಾಡದ ಒಂಜಿ ಧಾರ್ಮಿಕ ಆಚರಣೆ. ಉಂದು ಭೂಮಿಗ್ ಪೂಜೆ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ. ಭೂಮಿಗ್ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊರ್‍ಪಿನ ಈ ಆಚರಣೆದ ಮುಖ್ಯ ಉದ್ದೇಶ.",
+  "translation_en": {
+    "instruction": "What is 'Punyana' in Tulu Nadu?",
+    "response": "'Punyana' is a religious ritual of Tulu Nadu. It is a ritual of worshipping the land. The main objective of this ritual is to give sacredness and wealth to the land."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ 'ಕಂಬಳದ` ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಕಂಬಳ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಕ್ರೀಡೆ. ಈ ಕ್ರೀಡೆ ರೈತರೆನ ಭತ್ತೊದ ಕೃಷಿದೊಟ್ಟುಗ್ ಆತ್ಂಡ್. ಕಂಬಳದ ಕ್ರೀಡೆ ಕೃಷಿದ ಕೃಷಿಗ್ ಬಾರೀ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Kambala' in the agricultural practices of Tulu Nadu?",
+    "response": "Kambala is a traditional sport of Tulu Nadu. This sport is associated with the rice cultivation of farmers. The Kambala sport is very good for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಮುಡಿ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪನ್ಲೆ.",
+  "response": "ಮುಡಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಮಾಸ. ಇಂದೆನ್ ಕೃಷಿದ ಕೃಷಿಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು. ಈ ಮಾಸ ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊರ್ಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Mudi', which is important for agriculture in Tulu Nadu.",
+    "response": "'Mudi' is a traditional month. It is very useful for farming. This month gives sacredness and wealth to agriculture."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ 'ಕೃಷಿಗ್ ಬೆಲ್ಲೊನು' ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "response": "ಕೃಷಿಗ್ ಬೆಲ್ಲೊನು ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿ. ಈ ಪದ್ಧತಿಡ್, ಬೆಲ್ಲೊನು ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊರ್‍ಪಿನ.",
+  "translation_en": {
+    "instruction": "In the agricultural practices of Tulu Nadu, jaggery is used for farming.",
+    "response": "In the agricultural practices of Tulu Nadu, jaggery is used as a traditional ritual. In this ritual, jaggery is given to agriculture to bring sacredness and wealth."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆ ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆಲು ಬತ್ತೊಲು, ತಾರಾಯಿ, ಅಡಿಕೆ, ಗೋಡಂಬಿ ಬೊಕ್ಕ ಮೆಣಸು. ಇವುಲು ಈ ಪ್ರದೇಶದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the major agricultural crops of Tulu Nadu?",
+    "response": "The major agricultural crops of Tulu Nadu are rice, coconut, areca nut, cashew, and pepper. These crops are very good for the climate of this region."
+  }
+},
+{
+  "instruction": "ಬತ್ತೊದ ಕೃಷಿದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಬತ್ತೊದ ಕೃಷಿ ತುಳುನಾಡದ ಮುಖ್ಯ ಬೆಳೆ. ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿನ್ ಮೂರು ತಿಂಗೊಳುಡು ಮಲ್ಪುವೆರ್: ಕಾರ್ತಿಕ (ಮೇ-ಅಕ್ಟೋಬರ್), ಸುಗ್ಗಿ (ಅಕ್ಟೋಬರ್-ಜನವರಿ) ಬೊಕ್ಕ ಕೊಳಕೆ (ಜನವರಿ-ಏಪ್ರಿಲ್).",
+  "translation_en": {
+    "instruction": "Tell me a fact about rice cultivation.",
+    "response": "Rice cultivation is the main crop of Tulu Nadu. Rice is cultivated in this region in three seasons: Karthika (May-October), Suggi (October-January), and Kolake (January-April)."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ`ಯ ಮಹತ್ವ ಎಂಚಿನ?",
+  "response": "ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಆಟಿ ತಿಂಗೊಳುಡು, ಈ ಪ್ರದೇಶದ ಜನಕುಲು ತಯಾರಿಸಾವೆರ್. ಈ ಆಹಾರ ಮಸಾಲೆ, ತರಕಾರಿ ಬೊಕ್ಕ ತೆಂಗ್‌ ದ ಹಾಲ್ ಸೇರಾದ್, ಒಂಜಿ ಪರ್ಬದ ತಿಂಡಿ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What is the importance of 'Aati Ganji' of Tulu Nadu?",
+    "response": "'Aati Ganji' is a traditional food. It is prepared by the people of this region during the Aati month. This food is a festival dish made with spices, vegetables, and coconut milk."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವೃಕ್ಷೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವೃಕ್ಷೊಲು ತಾರಾಯಿ, ಅಡಿಕೆ ಬೊಕ್ಕ ಪತ್ರೊಡೆ. ಈ ವೃಕ್ಷೊಲು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್ ಬೊಕ್ಕ ಜನಕ್ಲೆಗ್ ಬಾರಿ ಉಪಯೋಗ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What are the major trees of Tulu Nadu?",
+    "response": "The major trees of Tulu Nadu are coconut, areca nut, and Patrode. These trees are famous for their natural beauty and are very useful to the people."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ತಾರೆ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "`ತಾರೆ` ತುಳುನಾಡದ ಒಂಜಿ ಮುಖ್ಯ ವೃಕ್ಷ. ಈ ವೃಕ್ಷೊನು ದೈವಾರಾಧನೆ, ನಾಗಾರಾಧನೆ ಬೊಕ್ಕ ಬೇತೆ ಆಚರಣೆಲೆಡ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್. ಈ ವೃಕ್ಷೊನು `ಕಲ್ಪವೃಕ್ಷ` ಅಂದ್ಲಾ ಪನ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the 'Tare' (coconut tree) of Tulu Nadu.",
+    "response": "'Tare' is a major tree of Tulu Nadu. This tree is used in 'Bhootaradhane', 'Nagaradhane', and other rituals. This tree is also called 'Kalpavriksha'."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿ ಉಪಕರಣೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿ ಉಪಕರಣೊಲು ನೇಗಿಲು, ಕುಂಬುಡು, ಬೊಕ್ಕ ಎರ್ ದ ಗಾಡಿ. ಈ ಉಪಕರಣೊಲು ಬೇಸಾಯೊಗು ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the main agricultural tools of Tulu Nadu?",
+    "response": "The main agricultural tools of Tulu Nadu are the plough, the hoe, and the bullock cart. These tools are very useful for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು `ಪಣವು`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಪಣವು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು. ಉಂದು ಉಷ್ಣ ಮರೊಲೆಡ್ ಬರ್ಪುಂಡು. ಈ ಹಣ್ಣು ರುಚಿ ಬೊಕ್ಕ ಪೂರೆಡ್‍ಲಾ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Panavu' (jackfruit), a famous fruit of Tulu Nadu.",
+    "response": "'Panavu' is a famous fruit of Tulu Nadu. It grows on tropical trees. This fruit is very delicious and healthy."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಹಣ್ಣು `ಮಾವು`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಮಾವು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹಣ್ಣು. ಉಂದು ಈ ಪ್ರದೇಶದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು. ಈ ಹಣ್ಣು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Mavu' (mango), a major fruit of Tulu Nadu.",
+    "response": "'Mavu' is a famous fruit of Tulu Nadu. It is very good for the climate of this region. This fruit is famous for its natural beauty."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತರಕಾರಿ `ಬದನೆ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಬದನೆ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತರಕಾರಿ. ಉಂದು ಬೇಸಾಯೊಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬದನೆದ ಕೃಷಿ ಜಾಸ್ತಿ.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Badane' (brinjal), a famous vegetable of Tulu Nadu.",
+    "response": "'Badane' is a famous vegetable of Tulu Nadu. It is very useful for farming. Hence, brinjal cultivation is more common in this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ `ಗೋಡಂಬಿ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಗೋಡಂಬಿ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ. ಈ ಬೆಳೆನ್ ಬೆಟ್ಟದ ಮಿತ್ತ್ ಕೃಷಿ ಮಲ್ಪುವೆರ್. ಈ ಬೆಳೆಗ್ ಒಂಜಿ ಮಸಾಲೆ ರುಚಿ ಉಂಡು. ಈ ಪ್ರದೇಶೊಡು ಗೋಡಂಬಿ ಹೆಚ್ಚಾದ್ ರಫ್ತು ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Godambi' (cashew), a major commercial crop of Tulu Nadu.",
+    "response": "'Godambi' is a major commercial crop of Tulu Nadu. This crop is cultivated on the hills. This crop has a savory taste. Cashews are mostly exported from this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಕುದುರೆ ಜಯ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕುದುರೆ ಜಯ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ಕೃಷಿ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊಂಡೊಲುಂಡು. ಈ ಆಚರಣೆದ ಬೊಕ್ಕ, ತುಳು ಜನೊಕುಲು ಒಂಜಿ ಹೊಸ ಕೃಷಿ ಕೆಲಸಗ್ ಸುರು ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about 'Kudure Jaya', which is important for agriculture in Tulu Nadu.",
+    "response": "'Kudure Jaya' is a traditional ritual of Tulu Nadu. In this ritual, a sacred and valuable offering is given to agriculture. After this ritual, the Tulu people begin a new agricultural work."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಭತ್ತದ ಕೃಷಿ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಭತ್ತದ ಕೃಷಿ ತುಳುನಾಡದ ಮುಖ್ಯ ಬೆಳೆ. ಈ ಪ್ರದೇಶೊಡು ಭತ್ತೊನ್ ಹೆಚ್ಚಿನ ಜನಕುಲು ಕೃಷಿ ಮಲ್ಪುವೆರ್. ಭತ್ತೊದ ಕೃಷಿ ಆಯಿನ ಬೊಕ್ಕ, ಬತ್ತೊದ ತಿಂಡಿಗ್ ಮಲ್ಪುನ ಒಂಜಿ ಕ್ರಮ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Bhattada Krishi' (rice cultivation), which is important for agriculture in Tulu Nadu.",
+    "response": "'Bhattada Krishi' is the main crop of Tulu Nadu. Rice is cultivated by many people in this region. After the cultivation of rice, there is a ritual of making rice snacks."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಕುದುರೆ ಜಯ`ದ ಬಗ್ಗೆ ಬೊಕ್ಕ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಕುದುರೆ ಜಯ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆ. ಈ ಆಚರಣೆಡ್, ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊಂಡೊಲುಂಡು. ಈ ಆಚರಣೆ ರೈತರೆನ ಜೀವನೊಗ್ ಪ್ರಮುಖ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me another fact about 'Kudure Jaya', which is important for agriculture in Tulu Nadu.",
+    "response": "'Kudure Jaya' is a traditional ritual of Tulu Nadu. In this ritual, a sacred and valuable offering is given to agriculture. This ritual is important for the livelihood of farmers."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ`ಯ ಬಗೆಟ್ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಆಟಿ ತಿಂಗೊಳುದ ಗಂಜಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ. ಉಂದೆನ್ ಆಟಿ ತಿಂಗೊಳುಡು, ಈ ಪ್ರದೇಶದ ಜನಕುಲು ತಯಾರಿಸಾವೆರ್. ಈ ಆಹಾರ ಮಸಾಲೆ, ತರಕಾರಿ ಬೊಕ್ಕ ತೆಂಗ್‌ ದ ಹಾಲ್ ಸೇರಾದ್, ಒಂಜಿ ಪರ್ಬದ ತಿಂಡಿ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Aati Ganji' of Tulu Nadu.",
+    "response": "'Aati Ganji' is a traditional food. It is prepared by the people of this region during the Aati month. This food is a festival dish made with spices, vegetables, and coconut milk."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ `ತಾರಿ ಮರ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತಾರಿ ಮರ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಮರ. ಇಂದೆನ್ ತೆಂಗುದ ಮರತಲೆಕ್ಕನೇ 'ಕಲ್ಪವೃಕ್ಷ' ಅಂದ್ ಪನ್ಪೆರ್. ಇಂದೆತ್ತ ಪರ್ಂದ್, ಇರೆ ಬೊಕ್ಕ ರಸೊನು ಮಸ್ತ್ ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me about the 'Tari Mara' (palmyra palm) of Tulu Nadu.",
+    "response": "The 'Tari Mara' is an important tree of Tulu Nadu. Like the coconut tree, it is also called 'Kalpavriksha'. Its fruit, leaves, and sap are used for many purposes."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ 'ಸಣಬು'ದ ಪಾತ್ರ ಎಂಚಿನ?",
+  "response": "ಸಣಬು ಒಂಜಿ ಕೃಷಿದ ಬೆಳೆ. ಇಂದೆನ್ ಮಣ್ಣಿನ ಗುಣೋನು ಎಡ್ಡೆ ಮಲ್ಪೆರೆಗಾದ್ ಬೆಳೆಸುವೆರ್. ಕೃಷಿ ಕೆಲಸಗ್ ಬಾರೀ ಎಡ್ಡೆ ಆಯಿನವು. ಈ ಬೆಳೆನ್ ಕೃಷಿದ ನಡುನಡುತ ಅವಸ್ಥೆಡ್ ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "translation_en": {
+    "instruction": "What is the role of 'Sanabu' (jute) in the agricultural practices of Tulu Nadu?",
+    "response": "'Sanabu' is an agricultural crop. It is cultivated to improve the quality of the soil. It is very useful for farming. This crop is used in the intermediate stages of cultivation."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ `ಭತ್ತದ ಪಜೆ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಭತ್ತದ ಪಜೆ ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಕೃಷಿದ ಉಪಕರಣ. ಇಂದೆನ್ ಬತ್ತೊದ ಕೃಷಿ ಕೆಲಸೊಡು ಉಪಯೋಗ ಮಲ್ಪುವೆರ್. ಈ ಉಪಕರಣೊನು ಕೈಯೆಡ್ ಮಲ್ಪುವೆರ್ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರಿ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Bhattada Paje' (rice hay) in the agricultural practices of Tulu Nadu.",
+    "response": "'Bhattada Paje' is a traditional agricultural tool of Tulu Nadu. It is used in rice cultivation. This tool is made by hand and is very useful for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿಗ್ ಮುಖ್ಯವಾಯಿನ `ಮುಡಿ`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಮುಡಿ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಮಾಸ. ಇಂದೆನ್ ಕೃಷಿದ ಕೃಷಿಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು. ಈ ಮಾಸ ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊರ್ಪುಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Mudi', which is important for agriculture in Tulu Nadu.",
+    "response": "'Mudi' is a traditional month. It is very useful for farming. This month gives sacredness and wealth to agriculture."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಕೃಷಿ ಪದ್ಧತಿಡ್ 'ಕೃಷಿಗ್ ಬೆಲ್ಲೊನು' ಉಪಯೋಗ ಮಲ್ಪುವೆರ್.",
+  "response": "ಕೃಷಿಗ್ ಬೆಲ್ಲೊನು ತುಳುನಾಡದ ಒಂಜಿ ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿ. ಈ ಪದ್ಧತಿಡ್, ಬೆಲ್ಲೊನು ಕೃಷಿಗ್ ಒಂಜಿ ಪುಣ್ಯ ಬೊಕ್ಕ ಸಂಪತ್ತುನು ಕೊರ್‍ಪಿನ.",
+  "translation_en": {
+    "instruction": "In the agricultural practices of Tulu Nadu, jaggery is used for farming.",
+    "response": "In the agricultural practices of Tulu Nadu, jaggery is used as a traditional ritual. In this ritual, jaggery is given to agriculture to bring sacredness and wealth."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ `ಮೆಣಸು`ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಮೆಣಸು ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಬೆಳೆ. ಈ ಬೆಳೆನ್ ಹೆಚ್ಚಾದ್ ಮಲೆನಾಡು ಪ್ರದೇಶೊಡು ಕೃಷಿ ಮಲ್ಪುವೆರ್. ಈ ಬೆಳೆ ಕೃಷಿಗ್ ಬಾರೀ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Menasu' (pepper), a major commercial crop of Tulu Nadu.",
+    "response": "'Menasu' is a major commercial crop of Tulu Nadu. This crop is mostly cultivated in the Malenadu region. This crop is very good for farming."
+  }
+},
+{
+  "instruction": "ಶಂಕರಪುರ ಮಲ್ಲಿಗೆದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಶಂಕರಪುರ ಮಲ್ಲಿಗೆ ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಹೂವು. ಉಂದು ಒಂಜಿ ಬಿಳಿ ಬಣ್ಣದ ಬೊಕ್ಕ ಪರಿಮಳ ಇಪ್ಪುನ ಹೂವು. ಉಂದು ಈ ಪ್ರದೇಶದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು ಬೊಕ್ಕ ಈ ಹೂವು ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Shankarpura Jasmine.",
+    "response": "Shankarpura Jasmine is a famous flower of Tulu Nadu. It is a white and fragrant flower. It is very good for the climate of this region and this flower is famous."
+  }
+}
 
 
 
@@ -1684,9 +2080,6 @@
   }
 }
 ]
-//PERSON OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-//US-easters OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-//college OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
 
