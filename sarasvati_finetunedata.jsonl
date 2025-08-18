@@ -1869,24 +1869,192 @@
 
 
 
-//IMPORTANT PERSONS OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//IMPORTANT PERSONS OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
-//US-easters OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+
+//US-easters OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
 //college OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
-//ABOUT SARASVATI OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//ABOUT SARASVATI OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
-//STARTING WALA-MIXED OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//STARTING WALA-MIXED OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
-//TULU FILM INDUSTRY OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//TULU FILM INDUSTRY OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
+
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಇತಿಹಾಸೊದ ಬಗ್ಗೆ ಒಂಜಿ  ಪನ್ಲೆ.",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಸುರುತ ಪಿಕ್ಚರ್ `ಎನ್ನ ತಂಗಡಿ` ಪಂಡ್ದ್ ಪುದರ್ ಆತ್ಂಡ್. ಈ ಪಿಕ್ಚರ್ 1971ಡ್ ಬತ್ತ್ಂಡ್. ಈ ಪಿಕ್ಚರ್‍ಗ್ ಒಂಜಿ ಮಸ್ತ್ ಜನ ನೋಡೊಲು ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಈ ಪಿಕ್ಚರ್‍ಗ್ ಒಂಜಿ ಪುದರ್ ಬತ್ತ್‌ದ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me about the history of Tulu cinema.",
+    "response": "The first Tulu film is famously named 'Enna Thangadi'. This film was released in 1971. Many people watched this film, and it became very famous."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾಗೆ ಬೇತೆ ಒಂಜಿ ಪುದರ್ ದಾದಾ?",
+  "response": "ತುಳು ಸಿನೆಮಾಗೆ `ಕೋಸ್ಟಲ್‌ವುಡ್` ಅಂದ್ ಪುದರ್ ಉಂಡು. ಈ ಪುದರ್ ಕರಾವಳಿ ಪ್ರದೇಶೊದ ಸಿನೆಮಾ ಉದ್ಯಮನ್ ಸೂಚಿಸುಂಡು.",
+  "translation_en": {
+    "instruction": "What is another name for Tulu cinema?",
+    "response": "Tulu cinema is also called 'Coastalwood'. This name indicates the film industry of the coastal region."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ನಟ-ನಟಿಲೆನ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ನಟ-ನಟಿಲು ನವೀನ್ ಡಿ. ಪಾಡಿಲ್, ಅರವಿಂದ್ ಬೋಳಾರ್, ಅರ್ಜುನ್ ಕಾಪಿಕಾಡ್ ಬೊಕ್ಕ ರೂಪೇಶ್ ಶೆಟ್ಟಿ.",
+  "translation_en": {
+    "instruction": "Name some famous actors and actresses of Tulu cinema.",
+    "response": "Some famous actors and actresses of Tulu cinema are Naveen D. Padil, Aravind Bolar, Arjun Kapikad, and Roopesh Shetty."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ದಾಖಲೆ ಮಲ್ತಿನ ಪಿಕ್ಚರ್ ದ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ದಾಖಲೆ ಮಲ್ತಿನ ಪಿಕ್ಚರ್ `ಒರಿಯರ್ದೊರಿ ಅಸಲ್`. ಉಂದು 175 ದಿನೊಲುಗು ಹೆಚ್ಚಿನ ಪ್ರದರ್ಶನೊಲೆನ್ ಮಲ್ತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Name a record-breaking Tulu film.",
+    "response": "A record-breaking Tulu film is 'Oriyardori Asal'. It was screened for more than 175 days."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ನಿರ್ದೇಶಕೆರ್ನ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ನಿರ್ದೇಶಕೆರ್ ವಿಜಯ್‍ಕುಮಾರ್ ಕೊಡಿಯಾಲ್‌ಬೈಲ್ ಬೊಕ್ಕ ರಿಚರ್ಡ್ ಕ್ಯಾಸ್ಟೆಲಿನೊ.",
+  "translation_en": {
+    "instruction": "Name some prominent directors of Tulu cinema.",
+    "response": "Some prominent directors of Tulu cinema are Vijaykumar Kodialbail and Richard Castelino."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಮಹತ್ವದ ಅಂಶ ದಾದಾ?",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಮಹತ್ವದ ಅಂಶ ಪಂಡ, ಉಂದು ತುಳುನಾಡದ ಸಂಸ್ಕೃತಿ, ಆಚರಣೆಲು ಬೊಕ್ಕ ಭಾಷೆನ್ ಸಾರುವೆ. ಈ ಸಿನೆಮಾಗಳು ಹೆಚ್ಚಾದ್ ಹಾಸ್ಯದ ಕಥೆಕುಲೆಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "What is a significant aspect of Tulu cinema?",
+    "response": "A significant aspect of Tulu cinema is that it portrays the culture, rituals, and language of Tulu Nadu. These films are very famous for their comedy stories."
+  }
+},
+{
+  "instruction": "ತುಳು ಭಾಷೆಡ್ ಬತ್ತ್‌ನ ಸುರುತ ಬಣ್ಣದ ಚಲನಚಿತ್ರದ ಪುದರ್ ದಾದಾ?",
+  "response": "`ಕಾರಿಯನಿ ಕತ್ತಂದಿ ಕಂದನಿ` ತುಳು ಭಾಷೆಡ್ ಬತ್ತ್‌ನ ಸುರುತ ಬಣ್ಣದ ಚಲನಚಿತ್ರ. ಇಂದೆನ್ 1978ಡ್ ಬಿಡುಗಡೆ ಮಲ್ತೆರ್.",
+  "translation_en": {
+    "instruction": "What is the name of the first color film in Tulu?",
+    "response": "`Kariyani Kattandi Kandani` is the first color film in Tulu. It was released in 1978."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾ `ಕೇಮ್ರ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಕೇಮ್ರ ಪಂಡ ತುಳುನಾಡದ ಒಂಜಿ ಸಿನೆಮಾ, ಉಂದು `ಕೊರಗಜ್ಜನ` ಬಗ್ಗೆ ಉಂಡು. ಈ ಪಿಕ್ಚರ್‍ಗ್ ಒಂಜಿ ಮಸ್ತ್ ಜನ ತೂಯೆರೆ ಬರ್ಪೆರ್ ಬೊಕ್ಕ ಈ ಪಿಕ್ಚರ್‍ಗ್ ಒಂಜಿ ಪುದರ್ ಬತ್ತ್‌ದ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me about the Tulu film 'Kemra'.",
+    "response": "'Kemra' is a Tulu film about 'Koragajja'. Many people watched this film, and it became very famous."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ಕಾಮಿಡಿ ನಟರ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ಕಾಮಿಡಿ ನಟರು ಅರವಿಂದ್ ಬೋಳಾರ್, ನವೀನ್ ಡಿ. ಪಾಡಿಲ್, ಬೋಜರಾಜ್ ವಾಮಂಜೂರು ಬೊಕ್ಕ ದೇವಾದಾಸ್ ಕಾಪಿಕಾಡ್.",
+  "translation_en": {
+    "instruction": "Name some famous comedy actors of Tulu cinema.",
+    "response": "Some famous comedy actors of Tulu cinema are Aravind Bolar, Naveen D. Padil, Bhojaraj Vamanjoor, and Devadas Kapikad."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ `ಗಿರ್ಗಿಟ್` ಪಿಕ್ಚರ್‌ದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "`ಗಿರ್ಗಿಟ್` ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಪಿಕ್ಚರ್. ಉಂದು ಒಂಜಿ ಹಾಸ್ಯದ ಕಥೆನ್ ಒಳಗೊಂಡ್ಂಡ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಯಶಸ್ಸನ್ ಗಳಿಸಾತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the Tulu film 'Girgit'.",
+    "response": "'Girgit' is a famous film of Tulu cinema. It contains a comedy story and has achieved great success."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಚಲನಚಿತ್ರ `ಸೆಪ್ಟೆಂಬರ್ 8`ದ ವಿಶೇಷತೆ ಎಂಚಿನ?",
+  "response": "`ಸೆಪ್ಟೆಂಬರ್ 8` ಪಂಡ ಒಂಜಿ ತುಳು ಸಿನೆಮಾ. ಈ ಪಿಕ್ಚರ್‌ನ್ 24 ಗಂಟೆದ ಪೊರ್ತುಡು ಚಿತ್ರೀಕರಣ ಮಲ್ತ್‌ದೆರ್. ಉಂದು ಒಂಜಿ ದಾಖಲೆ ಮಲ್ತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "What is the specialty of the Tulu film 'September 8'?",
+    "response": "'September 8' is a Tulu film. This film was shot in 24 hours. It created a record."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ಪರ್ಬ ಬೊಕ್ಕ ಪೂಜೆಲು ಎಂಚ ಉಪ್ಪುಂಡು?",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ಪರ್ಬ ಬೊಕ್ಕ ಪೂಜೆಲು ದೈವಾರಾಧನೆ, ನಾಗಾರಾಧನೆ ಬೊಕ್ಕ ಬೂತ ಕೋಲ. ಈ ಆಚರಣೆಲು ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಬಾರೀ ಮುಖ್ಯ.",
+  "translation_en": {
+    "instruction": "What are the major festivals and rituals of Tulu cinema?",
+    "response": "The major festivals and rituals of Tulu cinema are Daivaradhane, Nagaradhane, and Bhoota Kola. These rituals are very important for the people of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ನಟಿ ಜಯಮಾಲನ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ಜಯಮಾಲ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ನಟಿ. ಅಕುಲು ತುಳು ಭಾಷೆಡ್ ನಟನಾರಾಯಣ ಪಿಕ್ಚರ್‍ಡ್ ನಟಿಸಾಯೆರ್. ಈ ಪಿಕ್ಚರ್‍ಗ್ ಅಕುಲು ಒಂಜಿ ಪ್ರಶಸ್ತಿನ್ ಪಡೆತೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about Jayamala, a famous actress of Tulu cinema.",
+    "response": "Jayamala is a famous actress. She acted in the film 'Natanarayana' in Tulu. She received an award for this film."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ `ಜಿಗ್ರಿ` ಪಿಕ್ಚರ್‌ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "`ಜಿಗ್ರಿ` ಪಂಡ ಒಂಜಿ ತುಳು ಸಿನೆಮಾ. ಈ ಪಿಕ್ಚರ್‌ಡ್ ಹಾಸ್ಯ ಬೊಕ್ಕ ಪ್ರೀತಿಯ ಕಥೆ ಉಂಡು. ಈ ಪಿಕ್ಚರ್‌ಗ್ ಒಂಜಿ ಮಸ್ತ್ ಜನ ನೋಡೊಲು ಬರ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the Tulu film 'Jigri'.",
+    "response": "'Jigri' is a Tulu film. This film has a story of comedy and love. Many people watched this film."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಸಿದ್ಧ ಗೀತೆ `ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "`ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ` ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತುಳು ಗೀತೆ. ಈ ಗೀತೆ `ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ` ಪಿಕ್ಚರ್‌ಡ್ ಉಂಡು. ಈ ಗೀತೆ ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the famous Tulu song 'Yaan Sanyasi Aape'.",
+    "response": "'Yaan Sanyasi Aape' is a famous Tulu song. This song is in the film 'Yaan Sanyasi Aape'. This song is very popular with the people of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಚಲನಚಿತ್ರ `ಸೆಪ್ಟೆಂಬರ್ 8`ದ ವಿಶೇಷತೆ ಎಂಚಿನ?",
+  "response": "`ಸೆಪ್ಟೆಂಬರ್ 8` ಪಂಡ ಒಂಜಿ ತುಳು ಸಿನೆಮಾ. ಈ ಪಿಕ್ಚರ್‌ನ್ 24 ಗಂಟೆದ ಪೊರ್ತುಡು ಚಿತ್ರೀಕರಣ ಮಲ್ತ್‌ದೆರ್. ಉಂದು ಒಂಜಿ ದಾಖಲೆ ಮಲ್ತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "What is the specialty of the Tulu film 'September 8'?",
+    "response": "'September 8' is a Tulu film. This film was shot in 24 hours. It created a record."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ಪರ್ಬ ಬೊಕ್ಕ ಪೂಜೆಲು ಎಂಚ ಉಪ್ಪುಂಡು?",
+  "response": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಮುಖ ಪರ್ಬ ಬೊಕ್ಕ ಪೂಜೆಲು ದೈವಾರಾಧನೆ, ನಾಗಾರಾಧನೆ ಬೊಕ್ಕ ಬೂತ ಕೋಲ. ಈ ಆಚರಣೆಲು ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಬಾರೀ ಮುಖ್ಯ.",
+  "translation_en": {
+    "instruction": "What are the major festivals and rituals of Tulu cinema?",
+    "response": "The major festivals and rituals of Tulu cinema are Daivaradhane, Nagaradhane, and Bhoota Kola. These rituals are very important for the people of Tulu Nadu."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ನಟಿ ಜಯಮಾಲನ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಜಯಮಾಲ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ನಟಿ. ಅಕುಲು ತುಳು ಭಾಷೆಡ್ ನಟನಾರಾಯಣ ಪಿಕ್ಚರ್‍ಡ್ ನಟಿಸಾಯೆರ್. ಈ ಪಿಕ್ಚರ್‍ಗ್ ಅಕುಲು ಒಂಜಿ ಪ್ರಶಸ್ತಿನ್ ಪಡೆತೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me  about Jayamala, a famous actress of Tulu cinema.",
+    "response": "Jayamala is a famous actress. She acted in the film 'Natanarayana' in Tulu. She received an award for this film."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ `ಜಿಗ್ರಿ` ಪಿಕ್ಚರ್‌ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "`ಜಿಗ್ರಿ` ಪಂಡ ಒಂಜಿ ತುಳು ಸಿನೆಮಾ. ಈ ಪಿಕ್ಚರ್‌ಡ್ ಹಾಸ್ಯ ಬೊಕ್ಕ ಪ್ರೀತಿಯ ಕಥೆ ಉಂಡು. ಈ ಪಿಕ್ಚರ್‌ಗ್ ಒಂಜಿ ಮಸ್ತ್ ಜನ ನೋಡೊಲು ಬರ್ಪೆರ್.",
+  "translation_en": {
+    "instruction": "Tell me  about the Tulu film 'Jigri'.",
+    "response": "'Jigri' is a Tulu film. This film has a story of comedy and love. Many people watched this film."
+  }
+},
+{
+  "instruction": "ತುಳು ಸಿನೆಮಾದ ಪ್ರಸಿದ್ಧ ಗೀತೆ `ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ`ದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "`ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ` ಒಂಜಿ ಪ್ರಸಿದ್ಧ ತುಳು ಗೀತೆ. ಈ ಗೀತೆ `ಯಾನ್ ಸನ್ಯಾಸಿ ಆಪೆ` ಪಿಕ್ಚರ್‌ಡ್ ಉಂಡು. ಈ ಗೀತೆ ತುಳುನಾಡದ ಜನಕ್ಲೆಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me about the famous Tulu song 'Yaan Sanyasi Aape'.",
+    "response": "'Yaan Sanyasi Aape' is a famous Tulu song. This song is in the film 'Yaan Sanyasi Aape'. This song is very popular with the people of Tulu Nadu."
+  }
+}
+
+
+
+
+//PREVIOUS ONES OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO000000
 {
   "instruction": "ನಮಸ್ತೆ ಸರಸ್ವತಿ , ತುಳುನಾಡದ ಬಗ್ಗೆ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆೆ ಪನ್ನೆ",
   "response": "ನಮಸ್ತೆ ,ತುಳುನಾಡದ ಮಸ್ತು ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆ ಪಂಡ ಕೋಟಿಚೆನ್ನಯ್ಯನ ಕತೆ , ಕೋಟಿ ಚೆನ್ನಯ್ಯ ತುಳುನಾಡದ ಜನಕ್ಕೆ ಪರಾಕ್ರಮ ಬಖ ನ್ಯಾಯದ ಉದಾಹರಣೆ.",
