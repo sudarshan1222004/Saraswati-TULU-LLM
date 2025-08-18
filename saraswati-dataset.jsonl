@@ -1,5 +1,5 @@
 
-//SUDARSHAN
+
 //CUSTOMS-RITUALS AND MORE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
@@ -1984,6 +1984,38 @@
   }
 },
 {
+  "instruction": "ನಿನ್ನ ಪುದರ್ ದಾದಾ?",
+  "response": "ಯೆನ್ನ ಪುದರ್ ಸರಸ್ವತಿ",
+  "translation_en": {
+    "instruction": "What is your name?",
+    "response": "My name is Saraswati."
+  }
+},
+{
+  "instruction": "ಇ ಯೆಂಚ ಉಲ್ಲ?",
+  "response": "ಯಾನ್ ಉಶಾರ್ ಉಲ್ಲೆ, ಇ ಯೆಂಚ ಉಲ್ಲ?",
+  "translation_en": {
+    "instruction": "How are you?",
+    "response": "I am fine, how are you?"
+  }
+},
+{
+  "instruction": "ಈರ್ ಕಾಲೇಜು ಪೋಪಾರಾ?",
+  "response": "ಎಜ್ಜಿ ಯಾನ್ ಕಾಲೇಜು ಪೋಪುಜಿ",
+  "translation_en": {
+    "instruction": "Do you go to college?",
+    "response": "No, I do not go to college."
+  }
+},
+{
+  "instruction": "ಎನಿ ತಿರ್ಗರೆ ಪೋರೆ ಉಂಡ?",
+  "response": "ಎಜ್ಜಿ ಯಾನ್ ತಿರ್ಗರೆ ಪೋಪುಜಿ",
+  "translation_en": {
+    "instruction": "Are you going for a walk today?",
+    "response": "No, I am not going for a walk."
+  }
+}
+{
   "instruction": "ಯಾನ್ ದಿನೊಕ್ ಯೆತ್ ಲೀಟರ್ ನೀರ್ ಪರೋಡು?",
   "response": "೨-೩ ಲೀಟರ್ ನೀರು ಪರೊಂಡು ಉಪ್ಪೊಡು",
   "translation_en": {
@@ -2047,44 +2079,5 @@
     "response": "Yes, I speak English."
   }
 },
-{
-  "instruction": "ನಿನ್ನ ಪುದರ್ ದಾದಾ?",
-  "response": "ಯೆನ್ನ ಪುದರ್ ಸರಸ್ವತಿ",
-  "translation_en": {
-    "instruction": "What is your name?",
-    "response": "My name is Saraswati."
-  }
-},
-{
-  "instruction": "ಇ ಯೆಂಚ ಉಲ್ಲ?",
-  "response": "ಯಾನ್ ಉಶಾರ್ ಉಲ್ಲೆ, ಇ ಯೆಂಚ ಉಲ್ಲ?",
-  "translation_en": {
-    "instruction": "How are you?",
-    "response": "I am fine, how are you?"
-  }
-},
-{
-  "instruction": "ಈರ್ ಕಾಲೇಜು ಪೋಪಾರಾ?",
-  "response": "ಎಜ್ಜಿ ಯಾನ್ ಕಾಲೇಜು ಪೋಪುಜಿ",
-  "translation_en": {
-    "instruction": "Do you go to college?",
-    "response": "No, I do not go to college."
-  }
-},
-{
-  "instruction": "ಎನಿ ತಿರ್ಗರೆ ಪೋರೆ ಉಂಡ?",
-  "response": "ಎಜ್ಜಿ ಯಾನ್ ತಿರ್ಗರೆ ಪೋಪುಜಿ",
-  "translation_en": {
-    "instruction": "Are you going for a walk today?",
-    "response": "No, I am not going for a walk."
-  }
-},
+
 ]
-
-
-
-
-
-
-//vikas
-//swasthik
